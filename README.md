@@ -1,6 +1,6 @@
 ## Com funciona
 ### La idea
-Aquest repositori és la base sobre la qual es construeix el "Codespace", que serveix a tots els efectes com un compilador en línia per Fortran (i Gnuplot).
+Aquest repositori és la base sobre la qual es construeix el "Codespace", que serveix a tots els efectes com un compilador en línia per Fortran i Gnuplot.
 ### La configuració
 En la carpeta `.devcontainer` es troba la configuració del Codespace que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme.
 ## Procés
