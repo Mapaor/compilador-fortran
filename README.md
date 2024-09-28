@@ -45,8 +45,7 @@ Nota: Podria ser que et donés network error.
 ### La idea
 Aquest repositori és la base sobre la qual es construeix el "Codespace", que serveix a tots els efectes com un compilador en línia per Fortran i Gnuplot.
 ### La configuració
-En la carpeta `.devcontainer` es troba la configuració del Codespace que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
-Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i així podem anar programant de mentres.
+
 
 
 Bla bla
@@ -66,5 +65,8 @@ De la mateixa manera que en el VSCode per escriptori, disposem d'una barra later
 ### 3. Instal·lar gnuplot
 Bla bla
 ## Extra: Com funciona a nivell tècnic
-Bla bla
-
+### Carpeta .devcontainer
+En la carpeta `.devcontainer` es troba la configuració del Codespace que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
+Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i així podem anar programant de mentres.
+### Carpeta .vscode
+Allà hi desactivem algunes coses que molestarien a l'usuari, triem un tema per defecte i facilitem el fet de compilar i executar el codi.
