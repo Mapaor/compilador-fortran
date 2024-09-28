@@ -2,10 +2,10 @@
 ### La idea
 Aquest repositori és la base sobre la qual es construeix el "Codespace", que serveix a tots els efectes com un compilador en línia per Fortran i Gnuplot.
 ### La configuració
-En la carpeta `.devcontainer` es troba la configuració del Codespace que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme. Això és una cosa tècnica que no us ha de preocupar.
+En la carpeta `.devcontainer` es troba la configuració del Codespace que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme.
 ## Procés
 ### 1. Clonar aquest repositori
-Un/a només pot executar un repositori com a codespace si n'és el propietari. Per a fer-ho clona aquest repositori. De manera que la còpia sigui teva
+Un/a només pot executar un repositori com a codespace si n'és el propietari. Per a fer-ho cal que clonis aquest repositori. De manera que en tinguis una còpia que sigui teva.
 ### 2. Executar el Codespace
 Clica el següent botó
 Badge Codespace
