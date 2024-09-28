@@ -1,6 +1,5 @@
 ## Benvigut a aquesta guia!
-### Si ja estàs dins del Codespace, segueix llegint [aquí](#un-cop-dins-del-codespace)
-### Si acabes d'arribar segueix llegint
+Si ja estàs dins del Codespace, segueix llegint [aquí](#un-cop-dins-del-codespace).
 ## Què és el que volem aconseguir?
 El que nosaltres volem és tenir un entorn en el que poder compilar Fortran i Gnuplot i treballar amb fitxers de dades, imatges, PDFs... Bàsicament tenir una versió idèntica del Visual Studio Code a la web sense haver d'instal·lar res.
 <details>
