@@ -1,8 +1,11 @@
-## En quin punt et trobes?
-### A) Estic veient aquest README des de dins del Codespace
-Molt bé, felicitats. Ara mentre esperes que s'acabin d'instal·lar les extensions i el gfortran (aprox 1 min) pots anar llegint la resta del README clicant aquí.
-### B) Estic en la pàgina de GitHub 'https://github.com/Mapaor/compilador-fortran'
-Genial, estàs en el principi podríem dir. Anem a explicar com pots compilar fortran i gnuplot i treballar amb fitxers de dades sense haver d'instal·lar res al teu ordinador (tot en línia) amb uns poquets passos.
+## Si ja estàs dins del Codespace, segueix llegint [aquí](https://github.com/Mapaor/compilador-fortran)
+## De què va això?
+### Objectiu 
+Bla bla
+### Vídeo d'exemple
+Bla bla
+### Configuració tècnica
+Bla bla
 ## Procés per entrar dins del Codespace (és molt ràpid!)
 ### 1. Crea't un compte de GitHub o inicia la sessió
 ### 2. Clica el botó verd "Use this template" de dalt a la dreta
