@@ -6,7 +6,7 @@ En la carpeta `.devcontainer` es troba la configuració del Codespace que instal
 ## Procés
 ### 1. Clonar aquest repositori
 Un/a només pot executar un repositori com a codespace si n'és el propietari. Per a fer-ho cal que clonis aquest repositori. 
-
+<img width="941" alt="fork_example" src="https://github.com/user-attachments/assets/837b49ec-72d8-4697-972d-3f07d4ffebdd">
 Ara aquest repositori que és teu (en tens una còpia idèntica).
 ### 2. Executar el Codespace
 Clica el següent botó
