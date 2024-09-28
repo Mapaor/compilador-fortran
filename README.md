@@ -1,4 +1,4 @@
-## Benvigut a aquesta guia!
+## Benvingut a aquesta guia!
 Si ja estàs dins del Codespace, segueix llegint [aquí](#un-cop-dins-del-codespace).
 ## Què és el que volem aconseguir?
 El que nosaltres volem és tenir un entorn on poder **compilar Fortran i Gnuplot online** així com tenir els nostres fitxers ordenats, poder visualitzar fitxers de dades, PDFs, imatges, etc. sense haver d'instal·lar ni configurar res.
