@@ -6,11 +6,29 @@ El que nosaltres volem és tenir un entorn en el que poder compilar Fortran i Gn
   Bla bla
 </details>
 
-## Procés per entrar dins del Codespace (és molt ràpid!)
+## Procés (és molt ràpid!)
 ### 1. Crea't un compte de GitHub o inicia la sessió
 ### 2. Clica el botó verd "Use this template" de dalt a la dreta
 Si simplement vols veure que efectivament es pot compilar selecciona "Open in a codespace". Si vols crear-ho de manera que ja et serveixi per sempre clica "Create a new repository".
-# Antic
+
+Clica al següent botó:
+
+[![Executa el Codespace d'aquest repositori](https://github.com/codespaces/badge.svg)](https://codespaces.new/Mapaor/compilador-fortran?quickstart=1)
+ 
+## Un cop dins del Codespace
+### Felicitats
+Molt bé, felicitats. Ara mentre esperes que s'acabin d'instal·lar les extensions i el gfortran (aprox 1 min) pots anar llegint la resta del README.
+### L'espai de treball
+De la mateixa manera que en el VSCode per escriptori, disposem d'una barra lateral 
+### 3. Instal·lar gnuplot
+Bla bla
+## Extra: Com funciona a nivell tècnic
+### Carpeta .devcontainer
+En la carpeta `.devcontainer` es troba la configuració del Codespace que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
+Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i així podem anar programant de mentres.
+### Carpeta .vscode
+## Antic
+Allà hi desactivem algunes coses que molestarien a l'usuari, triem un tema per defecte i facilitem el fet de compilar i executar el codi.
 Un/a només pot executar un repositori com a codespace si n'és el propietari. Per a fer-ho cal que clonis aquest repositori. 
 <details>
 <summary>Com clonar un repositori?</summary>
@@ -40,33 +58,3 @@ Nota: Podria ser que et donés network error.
 <summary>Què fer si em dona error?</summary>
   Segurament sigui degut a que tens un ad-blocker o una extensió que restringeix alguna funcionalitat del navegador, o ho estàs obrint en una pestanya d'incògnit. Prova a descativar temporalment alguna de les extensions o canviar de navegador.
 </details>
-
-## Entendre com funciona
-### La idea
-Aquest repositori és la base sobre la qual es construeix el "Codespace", que serveix a tots els efectes com un compilador en línia per Fortran i Gnuplot.
-### La configuració
-
-
-
-Bla bla
-
-### 2. Obre el Codespace
-Ara obriràs el meu codespace (tu encara no l'has duplicat). Clica al següent botó:
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Mapaor/compilador-fortran?quickstart=1)
-
-Et portarà a l'entorn del Codespace.
-### 3. 
-## Un cop dins del Codespace
-### Felicitats
-Molt bé, felicitats. Ara mentre esperes que s'acabin d'instal·lar les extensions i el gfortran (aprox 1 min) pots anar llegint la resta del README.
-### L'espai de treball
-De la mateixa manera que en el VSCode per escriptori, disposem d'una barra lateral 
-### 3. Instal·lar gnuplot
-Bla bla
-## Extra: Com funciona a nivell tècnic
-### Carpeta .devcontainer
-En la carpeta `.devcontainer` es troba la configuració del Codespace que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
-Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i així podem anar programant de mentres.
-### Carpeta .vscode
-Allà hi desactivem algunes coses que molestarien a l'usuari, triem un tema per defecte i facilitem el fet de compilar i executar el codi.
