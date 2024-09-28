@@ -1,5 +1,5 @@
 ## Si ja estàs dins del Codespace, segueix llegint [aquí](https://github.com/Mapaor/compilador-fortran)
-## De què va això?
+## El que aconseguirem
 ### Objectiu 
 Bla bla
 ### Vídeo d'exemple
@@ -59,6 +59,8 @@ Ara obriràs el meu codespace (tu encara no l'has duplicat). Clica al següent b
 Et portarà a l'entorn del Codespace.
 ### 3. 
 ## Un cop dins del Codespace
+### Felicitats
+Molt bé, felicitats. Ara mentre esperes que s'acabin d'instal·lar les extensions i el gfortran (aprox 1 min) pots anar llegint la resta del README.
 ### L'espai de treball
 De la mateixa manera que en el VSCode per escriptori, disposem d'una barra lateral 
 ### 3. Instal·lar gnuplot
