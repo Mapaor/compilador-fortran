@@ -1,4 +1,3 @@
 {
-    //"postCreateCommand": "bash .devcontainer/postCreate.sh"
-      "postCreateCommand": "bash .devcontainer/postCreate.sh > .devcontainer/setup.log 2>&1 && cat .devcontainer/setup.log"
+  "postCreateCommand": "bash -x .devcontainer/postCreate.sh"
 }
