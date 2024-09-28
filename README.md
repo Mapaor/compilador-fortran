@@ -1,10 +1,13 @@
-## Com funciona
-### La idea
-Aquest repositori és la base sobre la qual es construeix el "Codespace", que serveix a tots els efectes com un compilador en línia per Fortran i Gnuplot.
-### La configuració
-En la carpeta `.devcontainer` es troba la configuració del Codespace que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
-## Procés
-### 1. Clonar aquest repositori
+## En quin punt et trobes?
+### A) Estic veient aquest README des de dins del Codespace
+Molt bé, felicitats. Ara mentre esperes que s'acabin d'instal·lar les extensions i el gfortran (aprox 1 min) pots anar llegint la resta del README clicant aquí.
+### B) Estic en la pàgina de GitHub 'https://github.com/Mapaor/compilador-fortran'
+Genial, estàs en el principi podríem dir. Anem a explicar com pots compilar fortran i gnuplot i treballar amb fitxers de dades sense haver d'instal·lar res al teu ordinador (tot en línia) amb uns poquets passos.
+## Procés per entrar dins del Codespace (és molt ràpid!)
+### 1. Crea't un compte de GitHub o inicia la sessió
+### 2. Clica el botó verd "Use this template" de dalt a la dreta
+Si simplement vols veure que efectivament es pot compilar selecciona "Open in a codespace". Si vols crear-ho de manera que ja et serveixi per sempre clica "Create a new repository".
+# Antic
 Un/a només pot executar un repositori com a codespace si n'és el propietari. Per a fer-ho cal que clonis aquest repositori. 
 <details>
 <summary>Com clonar un repositori?</summary>
@@ -35,9 +38,14 @@ Nota: Podria ser que et donés network error.
   Segurament sigui degut a que tens un ad-blocker o una extensió que restringeix alguna funcionalitat del navegador, o ho estàs obrint en una pestanya d'incògnit. Prova a descativar temporalment alguna de les extensions o canviar de navegador.
 </details>
 
-## Manera ràpida
+## Entendre com funciona
+### La idea
+Aquest repositori és la base sobre la qual es construeix el "Codespace", que serveix a tots els efectes com un compilador en línia per Fortran i Gnuplot.
+### La configuració
+En la carpeta `.devcontainer` es troba la configuració del Codespace que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
+Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i així podem anar programant de mentres.
 
-### 1. Registra't o Inicia Sessió a GitHub
+
 Bla bla
 
 ### 2. Obre el Codespace
