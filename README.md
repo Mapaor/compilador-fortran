@@ -1,5 +1,5 @@
 ## Si ja estàs dins del Codespace, segueix llegint [aquí](https://github.com/Mapaor/compilador-fortran)
-## El que aconseguirem
+## Benvigut a aquesta guia! Què és el que volem aconseguir?
 El que nosaltres volem és tenir un entorn en el que poder compilar Fortran i Gnuplot i treballar amb fitxers de dades, imatges, PDFs... Bàsicament tenir una versió idèntica del Visual Studio Code a la web sense haver d'instal·lar res.
 <details>
   <summary>Aquí podeu veure un vídeo de demostració</summary>
