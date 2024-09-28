@@ -21,6 +21,12 @@ Un/a només pot executar un repositori com a codespace si n'és el propietari. P
 
 Ara mira't aquest README des del TEU repositori.
 ### 2. Executar el Codespace
+Crea un nou Codespace
+
+![imatge](https://github.com/user-attachments/assets/25ea5146-3311-4f8a-909d-3bfdeac733c4)
+
+Potser et dona network error.
+
 Clica el següent botó
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Mapaor/compilador-fortran?quickstart=1)
