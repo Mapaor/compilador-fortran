@@ -21,17 +21,32 @@ Un/a només pot executar un repositori com a codespace si n'és el propietari. P
 
 Ara mira't aquest README des del TEU repositori.
 ### 2. Executar el Codespace
-Crea un nou Codespace
+Crea un nou Codespace a partir del teu repositori.
+<details>
+<summary>Com crear un Codespace a partir d'un repositori?</summary>
+  Simplement obra el desplegable "Code" i en la pestanya "Codespaces" clica el botó que és un '+'.
+  
+  ![imatge](https://github.com/user-attachments/assets/25ea5146-3311-4f8a-909d-3bfdeac733c4)
+</details>
 
-![imatge](https://github.com/user-attachments/assets/25ea5146-3311-4f8a-909d-3bfdeac733c4)
+Nota: Podria ser que et donés network error.
+<details>
+<summary>Què fer si em dona error?</summary>
+  Segurament sigui degut a que tens un ad-blocker o una extensió que restringeix alguna funcionalitat del navegador, o ho estàs obrint en una pestanya d'incògnit. Prova a descativar temporalment alguna de les extensions o canviar de navegador.
+</details>
 
-Potser et dona network error.
+## Manera ràpida
 
-Clica el següent botó
+### 1. Registra't o Inicia Sessió a GitHub
+Bla bla
+
+### 2. Obre el Codespace
+Ara obriràs el meu codespace (tu encara no l'has duplicat). Clica al següent botó:
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Mapaor/compilador-fortran?quickstart=1)
 
 Et portarà a l'entorn del Codespace.
+### 3. 
 ## Un cop dins del Codespace
 ### L'espai de treball
 De la mateixa manera que en el VSCode per escriptori, disposem d'una barra lateral 
