@@ -1,4 +1,6 @@
 #!/bin/bash
-set -x  # Enable debug mode to print each command being executed
+set -x  # Debugging mode to print executed commands
 echo "INSTALLING FORTRAN..."
-sudo apt update && sudo apt install -y gfortran
+sleep 1  # Give it a second to ensure output is flushed
+apt update && apt install -y gfortran
+
