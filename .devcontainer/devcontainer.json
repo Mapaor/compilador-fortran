@@ -1,3 +1,4 @@
 {
-  "postCreateCommand": "bash -x .devcontainer/postCreate.sh"
+  //"postCreateCommand": "bash -x .devcontainer/postCreate.sh"
+    "postCreateCommand": "script -q -c 'bash -x .devcontainer/postCreate.sh' /dev/null"
 }
