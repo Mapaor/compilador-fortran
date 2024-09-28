@@ -1,11 +1,11 @@
 ## Si ja estàs dins del Codespace, segueix llegint [aquí](https://github.com/Mapaor/compilador-fortran)
 ## El que aconseguirem
-### Objectiu 
-Bla bla
-### Vídeo d'exemple
-Bla bla
-### Configuració tècnica
-Bla bla
+El que nosaltres volem és tenir un entorn en el que poder compilar Fortran i Gnuplot i treballar amb fitxers de dades, imatges, PDFs... Bàsicament tenir una versió idèntica del Visual Studio Code a la web sense haver d'instal·lar res.
+<details>
+  <summary>Aquí podeu veure un vídeo de demostració</summary>
+  Bla bla
+</details>
+
 ## Procés per entrar dins del Codespace (és molt ràpid!)
 ### 1. Crea't un compte de GitHub o inicia la sessió
 ### 2. Clica el botó verd "Use this template" de dalt a la dreta
@@ -64,5 +64,7 @@ Molt bé, felicitats. Ara mentre esperes que s'acabin d'instal·lar les extensio
 ### L'espai de treball
 De la mateixa manera que en el VSCode per escriptori, disposem d'una barra lateral 
 ### 3. Instal·lar gnuplot
+Bla bla
+## Extra: Com funciona a nivell tècnic
 Bla bla
 
