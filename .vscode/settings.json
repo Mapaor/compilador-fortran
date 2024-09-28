@@ -1,4 +1,5 @@
 {
     "fortran.fortls.disabled": true,
-    "update.showReleaseNotes": false
+    "update.showReleaseNotes": false,
+    "extensions.preferPreReleases": false
 }
