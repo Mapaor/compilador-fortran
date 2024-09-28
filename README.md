@@ -16,7 +16,7 @@ Un/a només pot executar un repositori com a codespace si n'és el propietari. P
 
   <img width="571" alt="Screenshot 2024-09-28 at 23-28-54 Fork Mapaor_compilador-fortran" src="https://github.com/user-attachments/assets/255c396c-483b-4224-8591-98c7cb50c671">
   
-  Tardarà uns pocs segons i de seguida tindràs un nou repositori en el teu perfil. 
+  Tardarà uns pocs segons a crear-lo i de seguida tindràs un nou repositori en el teu perfil. 
 </details>
 
 Ara mira't aquest README des del TEU repositori.
