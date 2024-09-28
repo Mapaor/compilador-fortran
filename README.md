@@ -11,3 +11,10 @@ Clica el següent botó
 Badge Codespace
 ### 3. Instal·lar gnuplot
 Bla bla
+<details>
+<summary>Click to toggle contents of `code`</summary>
+
+```
+CODE!
+```
+</details>
