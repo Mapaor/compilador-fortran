@@ -18,6 +18,7 @@ Per si et perds en algun pas aquí tens un videotutorial d'exemple.
 <summary>VIDEOTUTORIAL</summary>
   
 </details>
+
 ### 1. Crea't un compte de GitHub o inicia la sessió
 Si ja tens un usuari [inicia la sessió](https://github.com/login), sinó [registra't](https://github.com/signup).
 
