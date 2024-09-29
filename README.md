@@ -8,14 +8,14 @@ Bàsicament tenir una **versió idèntica del Visual Studio Code** per la web qu
 Aquest mètode també pot servir a mòde de *back-up* per si un dia no us funcionés l'ordinador o tinguéssiu un problema tècnic. D'aquesta manera seguiríeu tenint accés a les vostres subrutines i als vostres programes amb la possibilitat d'editar-los, executar-los i guardar-los (tan al repositori de GitHub com de manera local).
 
 ### Exemple
-Aquí pots veure com amb quatre clicks un/a pot compilar Fortran i Gnuplot en línia.
+Aquí pots veure com amb un sol click un/a pot compilar Fortran i Gnuplot en línia sense haver d'instal·lar res.
+*gravar pantalla directament amb GIF*
+I aquí tens un video tutorial d'exemple per si et perds seguint aquesta guia. 
 <details>
   <summary>Vídeo tutorial d'exemple</summary>
   
-  
 
 https://github.com/user-attachments/assets/8b3e09ae-d44b-4f6f-958c-14e8d71a3cb1
-
 
   
 </details>
