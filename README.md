@@ -17,11 +17,13 @@ Si ja tens un usuari [inicia la sessió](https://github.com/login), sinó [regis
 
 Consell: Si us registreu amb el correu de la uni i més endavant realitzeu la sol·licitud per tenir [Student Benefits](https://fisicaubwiki.notion.site/Utilitzar-la-IA-GitHub-Copilot-d25a3dd6dd384b0ea4586a309a5b0fdc), obtindreu el pla GitHub Pro gratuïtament i us permetrà augmentar bastant la velocitat dels vostres Codespaces així com les hores totals de computació que podeu fer servir cada mes (només us caldria si ho féssiu servir molt sovint).
 ### 2. Clica el botó verd "Use this template"
-El pots trobar a dalt a la dreta del repositori, o simplement clicar el següent (és el mateix botó):
+A dalt a la dreta del repositori tens un botó verd, el qual és un desplegable en el qual pots triar o l'opció "Open in a codespace" (Si simplement volguéssis veure que efectivament es pot compilar en aquell espai) o l'opció "Create a new repository", que és la que seguirem en aquesta guia i et permetrà tenir un entorn permanent en el que poder compilar i que podràs personalitzar com vulguis i posar-hi tots els teus fitxers.
 
-[![Use this Template](https://img.shields.io/badge/Use_this_Template-green.svg)](https://github.com/Mapaor/compilador-fortran/generate)
+Per l'opció "Create a new repository" si vols pots simplement clicar el següent botó:
 
-És un desplegable en el qual pots triar o "Open in a codespace" (Si simplement volguéssis veure que efectivament es pot compilar en aquell espai) o "Create a new repository" si vols seguir aquesta guia de manera que ja tinguis un entorn permanent en el que poder compilar i que pots personalitzar com vulguis.
+[![Create a new repository](https://img.shields.io/badge/Use_this_Template-green.svg)](https://github.com/Mapaor/compilador-fortran/generate)
+
+És 
  
 ## Un cop dins del Codespace
 ### Felicitats
