@@ -102,6 +102,7 @@ Si hem arribat fina aquí ja estaria, tot funciona correctament. I el millor és
 En la carpeta `.devcontainer` es troba la configuració del Codespace que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
 Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i així podem anar programant de mentres.
 ### Carpeta .vscode
+Per evitar notificacions molestes innecessàries.
 ## Extra: TIPS pel VSCode
 ### Canviar el tema
 - Pots canviar el tema clicant l'icona de "Settings" després a "Temes" i "Tema de Color". Tria el que més t'agradi.
