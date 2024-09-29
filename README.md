@@ -51,11 +51,17 @@ Nota: Podria ser segons com que et donés un _network error_.
   Segurament sigui degut a que tens un ad-blocker, una extensió que restringeix alguna funcionalitat del navegador o que et trobes en una pestanya d'incògnit. Prova a descativar temporalment alguna de les extensions o canviar de navegador.
 </details>
 
-## Un cop dins del *codespace*
-### Felicitats
-Molt bé, felicitats. Ara mentre esperes que s'acabin d'instal·lar les extensions i el gfortran (aprox 1 min) pots anar llegint la resta del README.
+## Què fer un cop dins del *codespace*?
+### Primer de tot felicitats!
+Molt bé, felicitats! estàs llegint aquest README des de dins del *codespace*. Ara mentre esperes que s'acabin d'instal·lar les extensions i el gfortran (aprox 1 min) pots anar llegint com funciona aquest editor (VS Code) i com treure'n el màxim de profit. En breus realitzarem un exemple en què compiles un arxiu de fortran i un de gnuplot.
 ### L'espai de treball
-De la mateixa manera que en el VSCode per escriptori, disposem d'una barra lateral 
+De la mateixa manera que en el VSCode per escriptori, disposem d'una barra lateral en la que tenim els nostres fitxers i podem canviar (funciona per pestanyes) al mode "Extensions" per buscar i afegir-ne una o al mode "Workspace" (on tenim els nostres arxius), entre d'altres.
+
+Tenim també una finestra principal en la que tenim diferents pestanyes (com un navegador). Segurament ara està oberta [Visualització prèvia | README.md]. Si despleguem la carpeta PRACTIQUES-FORTRAN i cliquem l'arxiu "prova.f90" hauríem de veure com se'ns obra en aquesta finestra principal en una nova pestanya.
+
+Per últim tenim un bucador a dalt al mig i una finestra inferior on hi tenim la Terminal (i altres eines). Si en algun moment tanquem accidentalment aquesta finestra sempre la podem recuperar buscant `>Terminal` en el buscador.
+
+Nota: La diferència entre buscar `text` i buscar `>text` és important. Són dues cerques diferents. Per més informació: [VS Code - User Interface](https://code.visualstudio.com/docs/getstarted/userinterface).
 ### 3. Instal·lar gnuplot
 Bla bla
 ## Extra: Com funciona a nivell tècnic
