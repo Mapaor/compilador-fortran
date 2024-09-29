@@ -127,9 +127,34 @@ Ara cliqueu al botó de la part superior dreta de la finestra principal, que ser
 
 <img width="184" alt="canvi-souruce" src="https://github.com/user-attachments/assets/5ea89499-e257-4542-b03c-8999db6b4208">
 
-Se us obrirà el fitxer `keybindigs.json`, borreu el que sigui que hi hagi. Hi poseu-hi el següent codi en funció del vostre sistema operatiu.
-#### Per a Windows
-Bla bla
+Se us obrirà el fitxer `keybindigs.json`, borreu el que sigui que hi hagi i poseu-hi el següent codi en funció del vostre sistema operatiu:
+#### Per a Windows o Linux
+<details><summary>Codi</summary>
+```
+// Si vols també pots modificar aquestes dreceres canviant la 'key'.
+[
+  {
+    "key": "Ctrl+Shift+B",
+    "command": "workbench.action.tasks.runTask",
+    "when": "resourceExtname == .f90 || resourceExtname == .f || resourceExtname == .f95",
+    "args": "Build & Run Fortran"
+  },
+  {
+    "key": "Ctrl+Shift+B",
+    "command": "workbench.action.tasks.runTask",
+    "when": "resourceExtname == .gnu",
+    "args": "Create Plot"
+  },
+  {
+    "key": "Ctrl+Alt+B",
+    "command": "workbench.action.tasks.runTask",
+    "when": "resourceExtname == .f90 || resourceExtname == .f || resourceExtname == .f95 || resourceExtname == .gnu",
+    "args": "Create Folders"
+  },
+]
+```
+</details>
+
 #### Per a Mac
 Bla bla
 ## Informació rellevant
