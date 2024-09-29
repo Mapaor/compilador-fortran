@@ -76,7 +76,7 @@ També ho pots comprovar compilant l'arxiu "prova.f90".
 
 Si veiem un "Hello World" en la consola és que ha funcionat correctament, i de pas hem aprés a compilar i executar des de la terminal.
 ### Instal·lar gnuplot
-Abans hem dit una petita mentida, hem dit que no s'havia d'instal·lar res. Si bé això és cert per Fortran, s'ha optat per no instal·lar Gnuplot (ja que tarda uns 2-5 minuts) i podria fer més difícil l'experiència inicial per un usuari que acaba d'entrar al Codespace.
+Abans hem dit una petita mentida, hem dit que no s'havia d'instal·lar res. Si bé això és cert per Fortran, s'ha optat per no instal·lar Gnuplot (ja que tarda uns 2-5 minuts) i podria fer més difícil l'experiència inicial per un usuari que acaba d'entrar al *codespace*.
 
 Per a fer-ho simplement escriu a la terminal el següent:
 ```
