@@ -2,16 +2,6 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Create Folders",
-      "type": "shell",
-      "command": "mkdir -p exes data out",
-      "options": {
-        "cwd": "${fileDirname}"
-      },
-      "problemMatcher": [],
-      "group": "build"
-    },
-    {
       "label": "Build & Run Fortran",
       "type": "shell",
       "command": "${fileDirname}/exes/${fileBasenameNoExtension}",
@@ -48,6 +38,16 @@
         "${fileDirname}/${fileBasename}"
       ],
       "problemMatcher": []
+    },
+    {
+      "label": "Create Folders",
+      "type": "shell",
+      "command": "mkdir -p exes data out",
+      "options": {
+        "cwd": "${fileDirname}"
+      },
+      "problemMatcher": [],
+      "group": "build"
     }
   ]
 }
