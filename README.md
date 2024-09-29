@@ -90,7 +90,7 @@ Si veiem un `Hello World!` en la consola és que ha funcionat correctament, i de
 
 Pots aprendre a altres commandaments útils de la terminal [aquí](https://fisicaubwiki.notion.site/Instal-lar-Fortran-i-Gnuplot-per-Mac-XCode-i-VSCode-10e11a9761ab80f49c23f87a4c490d68#10e11a9761ab805899e5d8f1efc14684).
 ### Instal·lar gnuplot
-Abans hem dit una petita mentida, hem dit que no s'havia d'instal·lar res. Si bé això és cert per Fortran, s'ha optat per no instal·lar Gnuplot (ja que tarda uns 2-5 minuts) i podria fer més difícil l'experiència inicial per un usuari que acaba d'entrar al *codespace*.
+Abans hem dit una petita mentida, hem dit que no s'havia d'instal·lar res. Si bé això és cert per Fortran, s'ha optat per no instal·lar Gnuplot, ja que tarda uns 2-5 minuts i podria fer més difícil l'experiència inicial per un usuari que acaba d'entrar al *codespace*.
 
 Per a fer-ho simplement escriu a la terminal el següent:
 ```
