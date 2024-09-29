@@ -1,5 +1,8 @@
 {
     "fortran.fortls.disabled": true,
     "update.showReleaseNotes": false,
-    "extensions.preferPreReleases": false
+    "extensions.preferPreReleases": false,
+    "extensions.ignoreRecommendations": true,
+    "extensions.autoUpdate": false,
+    "extensions.autoCheckUpdates": false
 }
