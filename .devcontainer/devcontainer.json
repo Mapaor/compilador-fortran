@@ -14,7 +14,6 @@
         }
     },
     "postCreateCommand": "sudo apt update && sudo apt install -y gfortran", // Instalem gfortran,
-    "postStartCommand": "sudo rm -rf ~/.vscode-remote/extensions/fortran-lang.linter-gfortran-*/updates",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash",
         "workbench.iconTheme": "material-icon-theme"  // Triem Material Icon Theme com a tema per defecte.
