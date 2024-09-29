@@ -91,6 +91,9 @@ gnuplot fig1.gnu
 
 A dins de la carpeta `/out` s'hauria d'haver creat un fitxer `fig1.png` si el cliquem hauríem de veure una imatge com la següent
 
+![fig1](https://github.com/user-attachments/assets/70fda62b-5cc7-4103-8024-c661c6a17d7d)
+
+
 Si hem arribat fina aquí ja estaria, tot funciona correctament. Ara ja sempre que tonreu a entrar en el vostre *codespace* ja hi haurà gnuplot instal·lat.
 ## Informació rellevant
 Ús del Codespace i límits del pla gratuït, com aturar, reanudar i suprimir un *codespace*. Bla bla.
