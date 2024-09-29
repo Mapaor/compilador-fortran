@@ -16,12 +16,12 @@ Aquest mètode també pot servir a mòde de *back-up* per si un dia no us funcio
 Si ja tens un usuari [inicia la sessió](https://github.com/login), sinó [registra't](https://github.com/signup).
 
 Consell: Si us registreu amb el correu de la uni i més endavant realitzeu la sol·licitud per tenir [Student Benefits](https://fisicaubwiki.notion.site/Utilitzar-la-IA-GitHub-Copilot-d25a3dd6dd384b0ea4586a309a5b0fdc), obtindreu el pla GitHub Pro gratuïtament i us permetrà augmentar bastant la velocitat dels vostres Codespaces així com les hores totals de computació que podeu fer servir cada mes (només us caldria si ho féssiu servir molt sovint).
-### 2. Clica el botó verd "Use this template" de dalt a la dreta
-Si simplement vols veure que efectivament es pot compilar selecciona "Open in a codespace". Si vols crear-ho de manera que ja et serveixi per sempre clica "Create a new repository".
+### 2. Clica el botó verd "Use this template"
+El pots trobar a dalt a la dreta del repositori, o simplement clicar el següent (és el mateix botó):
 
-Clica al següent botó:
+[![Use this Template](https://img.shields.io/badge/Use_this_Template-green.svg)](https://github.com/Mapaor/compilador-fortran/generate)
 
-[![Executa el Codespace d'aquest repositori](https://github.com/codespaces/badge.svg)](https://codespaces.new/Mapaor/compilador-fortran?quickstart=1)
+És un desplegable en el qual pots triar o "Open in a codespace" (Si simplement volguéssis veure que efectivament es pot compilar en aquell espai) o "Create a new repository" si vols seguir aquesta guia de manera que ja tinguis un entorn permanent en el que poder compilar i que pots personalitzar com vulguis.
  
 ## Un cop dins del Codespace
 ### Felicitats
