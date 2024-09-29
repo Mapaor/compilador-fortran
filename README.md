@@ -5,7 +5,7 @@ El que nosaltres volem és tenir un entorn on poder **compilar Fortran i Gnuplot
 
 Bàsicament tenir una **versió idèntica del Visual Studio Code** per la web que ens permet programmar sense masses complicacions si no estem davant del nostre ordinador habitual.
 <details>
-  <summary>Aquí podeu veure un **vídeo demo** </summary>
+  <summary>Aquí podeu veure un vídeo demo</summary>
   Bla bla
 </details>
 
