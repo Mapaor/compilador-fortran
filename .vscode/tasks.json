@@ -38,7 +38,7 @@
       "problemMatcher": []
     },
     {
-      "label": "Create Plot",
+      "label": "Run Gnuplot",
       "type": "shell",
       "command": "gnuplot",
       "options": {
