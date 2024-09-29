@@ -158,7 +158,34 @@ Se us obrirà el fitxer `keybindigs.json`, borreu el que sigui que hi hagi i pos
 </details>
 
 #### Per a Mac
-Bla bla
+<details><summary>Codi</summary>
+  
+```
+// Si vols també pots modificar aquestes dreceres canviant la 'key'.
+[
+  {
+    "key": "Cmd+Shift+B",
+    "command": "workbench.action.tasks.runTask",
+    "when": "resourceExtname == .f90 || resourceExtname == .f || resourceExtname == .f95",
+    "args": "Build & Run Fortran"
+  },
+  {
+    "key": "Cmd+Shift+B",
+    "command": "workbench.action.tasks.runTask",
+    "when": "resourceExtname == .gnu",
+    "args": "Create Plot"
+  },
+  {
+    "key": "Cmd+Alt+B",
+    "command": "workbench.action.tasks.runTask",
+    "when": "resourceExtname == .f90 || resourceExtname == .f || resourceExtname == .f95 || resourceExtname == .gnu",
+    "args": "Create Folders"
+  },
+]
+```
+
+</details>
+
 ## Informació rellevant
 Ús del Codespace i límits del pla gratuït, com aturar, reanudar i suprimir un *codespace*. Bla bla.
 ## Com guardar els canvis a GitHub
