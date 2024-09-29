@@ -9,6 +9,7 @@
                 "mammothb.gnuplot",               // Gnuplot (by mammothb)
                 "pkief.material-icon-theme",       // Material Icon Theme (by Philipp Kief)
                 "bierner.markdown-preview-github-styles"  // Markdown com un README de GitHub
+                "SanaAjani.taskrunnercode"   // Task Runner (by Sana Ajani)
             ]
         }
     },
