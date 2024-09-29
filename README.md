@@ -48,7 +48,7 @@ Per a fer-ho obre el desplegable verd "Code" del repositori i en la pestanya "Co
 Nota: Podria ser segons com que et donés un _network error_.
 <details>
 <summary>Què fer si em dona aquest error?</summary>
-  Segurament sigui degut a que tens un ad-blocker o una extensió que restringeix alguna funcionalitat del navegador, o que ho estàs obrint en una pestanya d'incògnit. Prova a descativar temporalment alguna de les extensions o canviar de navegador.
+  Segurament sigui degut a que tens un ad-blocker, una extensió que restringeix alguna funcionalitat del navegador o que et trobes en una pestanya d'incògnit. Prova a descativar temporalment alguna de les extensions o canviar de navegador.
 </details>
 
 ## Un cop dins del *codespace*
