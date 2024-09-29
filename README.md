@@ -99,7 +99,7 @@ Si hem arribat fina aquí ja estaria, tot funciona correctament. I el millor és
 Ús del Codespace i límits del pla gratuït, com aturar, reanudar i suprimir un *codespace*. Bla bla.
 ## Extra: Com funciona a nivell tècnic
 ### Carpeta .devcontainer
-En la carpeta `.devcontainer` es troba la configuració del Codespace que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
+En la carpeta `.devcontainer` es troba la configuració del *codespace* que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
 Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i així podem anar programant de mentres.
 ### Carpeta .vscode
 Per evitar notificacions molestes innecessàries.
@@ -108,7 +108,7 @@ Per evitar notificacions molestes innecessàries.
 - Pots canviar el tema clicant l'icona de "Settings" després a "Temes" i "Tema de Color". Tria el que més t'agradi.
 - Pots afegir les extensions que consideris. Per a fer-ho buscales i instal·lales i comprova que realitzen la funció que vols.
 
-  Nota: Si no suprimíssis mai el Codespace en el que estàs treballant podries fer servir sempre aquesta extensió. Tot i així per si de cas volguéssis un dia reiniciar des de zero el Codespace, és millor que la instal·lis bé. Segueix els següents passos:
+  Nota: Si no suprimíssis mai el *codespace* en el que estàs treballant podries fer servir sempre aquesta extensió. Tot i així per si de cas volguéssis un dia reiniciar des de zero el *codespace*, és millor que l'acabis d'instal·lar bé. Segueix els següents passos:
   1. Busca-la al [VS Code Marketplace](https://marketplace.visualstudio.com/vscode)
   2. Un cop dins la pàgina de l'extensió fixa't en la URL. Copia el que ve després de "Name=Url", per exemple pel Modern Fortran seria `fortran-lang.linter-gfortran`.
   3. Afegeix l'extensió al fitxer `devcontainer.json` (que es troba dins de la carpeta `.devcontainer`) en la part de `extensions` en una nova línia al final de tot.
