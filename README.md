@@ -3,13 +3,15 @@ Si ja estàs dins del *codespace*, segueix llegint [aquí](#qu%C3%A8-fer-un-cop-
 ## Què és el que volem aconseguir?
 El que nosaltres volem és tenir un entorn on poder **compilar Fortran i Gnuplot de manera online** sense haver d'instal·lar ni configurar res. El mètode que seguirem ens permetrà tenir un link permanent en el qual tenim els nostres fitxers ordenats per carpetes, podem visualitzar PDFs, fitxers de dades, imatges, etc.
 
-Bàsicament tenir una **versió idèntica del Visual Studio Code** per la web que ens permet programmar sense masses complicacions si no estem davant del nostre ordinador habitual.
+Bàsicament tenir una **versió idèntica del Visual Studio Code** per la web que ens permeti programmar sense masses complicacions encara que no estiguem estem davant del nostre ordinador habitual.
 
-Aquest mètode també pot servir a mòde de *back-up* per si un dia no us funcionés l'ordinador o tinguéssiu un problema tècnic. D'aquesta manera seguiríeu tenint accés a les vostres subrutines i als vostres programes amb la possibilitat d'editar-los, executar-los i guardar-los (tan al repositori de GitHub com de manera local).
+Aquest mètode també pot servir a mode de *back-up* per si un dia no us funcionés l'ordinador o tinguéssiu un problema tècnic. D'aquesta manera seguiríeu tenint accés a les vostres subrutines i als vostres programes amb la possibilitat d'editar-los, executar-los i guardar-los (tan al repositori de GitHub com de manera local).
 
 ### Exemple
-Aquí pots veure com amb un sol click un/a pot compilar Fortran i Gnuplot en línia sense haver d'instal·lar res.
+Aquí pots veure com amb un sol click un/a pot compilar Fortran i Gnuplot sense haver d'instal·lar res.
+
 *gravar pantalla directament amb GIF*
+
 I aquí tens un video tutorial d'exemple per si et perds seguint aquesta guia. 
 <details>
   <summary>Vídeo tutorial d'exemple</summary>
