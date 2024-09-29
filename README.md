@@ -112,7 +112,13 @@ Si hem arribat fins aquí ja estaria, tot funciona correctament. Ara sempre que 
 
 A continuació explicarem una última cosa, com compilar un arxiu fortran o gnuplot sense haver d'escriure els mateixos comandaments una vegada i una altra en la terminal.
 ### Compilar a partir del Task Runner
-Si et fixes dins l'Explorador hi tens els teus arxius i a la part de baix hi tens alguns desplegables.
+Si et fixes dins de l'Explorador hi tens les teves carpetes i arxius, però també hi tens un desplegable a la part inferior anomenat "Task Runner". Si el desplegues veuràs que hi ha les quatre tasques configurades en el fitxer `tasks.json` (dins de `.vscode`). 
+
+Aquestes tal com el seu nom indica, permeten compilar i executar fortran i gnuplot, i també generar les carpetes 'data', 'exes' i 'out' automàticament. 
+
+Nota: Si voleu treballar sense aquest *workflow* de carpetes, sentiu-vos lliures de canviar el codi de `tasks.json` pel que més us agradi.
+
+D'aquesta manera un pot programmar molt més ràpidament sense haver d'estar escrivint a la terminal constantment.
 ### Opcional: Dreceres de teclat per compilar directament
 Les dreceres de teclat, així com el color de tema i d'altres, són personalitzacions de l'usuari (no es poden configurar en el repositori de GitHub). Ara aprendrem com configurar-les per tal de poder compilar sense haver d'utilitzar cap commandament. 
 
@@ -187,6 +193,8 @@ Se us obrirà el fitxer `keybindigs.json`, borreu el que sigui que hi hagi i pos
 ```
 
 </details>
+
+Ara hauríeu de poder executar el fitxer que teniu obert (ja sigui de Fortran o de Gnuplot) mitjançant la drecera de teclat <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> per Windows i Linux, i <kbd>&#8984;</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> per Mac. I per tal de generar les carpetes 'data', 'exes' i 'out' automàticament podeu fer servir <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd> (o <kbd>&#8984;</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd>). Nota mnemotècnica: Per la drecera utilitzem 'B' de 'Build'.
 
 ## Informació rellevant
 Ús del Codespace i límits del pla gratuït, com aturar, reanudar i suprimir un *codespace*. Bla bla.
