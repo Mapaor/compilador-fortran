@@ -15,7 +15,7 @@ Aquest mètode també pot servir a mòde de *back-up* per si un dia no us funcio
 ### 1. Crea't un compte de GitHub o inicia la sessió
 Si ja tens un usuari [inicia la sessió](https://github.com/login), sinó [registra't](https://github.com/signup).
 
-Consell: si us registreu amb el correu de la uni i més endavant apliqueu al Student Benefits, obtindreu el pla GitHub pro de manera grauïta i podreu córrer Codespaces amb més velocitat i durant moltes més hores.
+Consell: Si us registreu amb el correu de la uni i més endavant apliqueu per tenir [Student Benefits](https://fisicaubwiki.notion.site/Utilitzar-la-IA-GitHub-Copilot-d25a3dd6dd384b0ea4586a309a5b0fdc), obtindreu el pla GitHub pro de manera grauïta i podreu córrer Codespaces amb més velocitat i durant moltes més hores.
 ### 2. Clica el botó verd "Use this template" de dalt a la dreta
 Si simplement vols veure que efectivament es pot compilar selecciona "Open in a codespace". Si vols crear-ho de manera que ja et serveixi per sempre clica "Create a new repository".
 
