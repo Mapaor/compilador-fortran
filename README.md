@@ -53,7 +53,7 @@ Nota: Podria ser segons com que et donés un _network error_.
 
 ## Què fer un cop dins del *codespace*?
 ### Primer de tot felicitats!
-Molt bé, felicitats! estàs llegint aquest README des de dins del *codespace*. Ara mentre esperes que s'acabin d'instal·lar les extensions i el gfortran (aprox 1 min) pots anar llegint com funciona aquest editor (VS Code) i com treure'n el màxim de profit. En breus realitzarem un exemple en què compiles un arxiu de fortran i un de gnuplot.
+Molt bé, enhorabona! Estàs llegint aquest README des de dins del *codespace*. Ara mentre esperes que s'acabin d'instal·lar les extensions i el gfortran (aprox 1 min) pots anar llegint com funciona aquest editor (VS Code) i com treure'n el màxim de profit. En breus realitzarem un exemple en què compiles un arxiu de fortran i un de gnuplot.
 ### L'espai de treball
 De la mateixa manera que en el VSCode per escriptori, disposem d'una barra lateral en la que tenim els nostres fitxers i podem canviar (funciona per pestanyes) al mode "Extensions" per buscar i afegir-ne una o al mode "Workspace" (on tenim els nostres arxius), entre d'altres.
 
