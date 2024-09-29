@@ -1,12 +1,9 @@
 {
+    // Desactivem notificacions innecessàries
     "fortran.fortls.disabled": true,
-    "fortran.showReleaseNotes": false,
-    "workbench.editor.enablePreviewFromCodeNavigation": false,
-    "workbench.editor.enablePreviewFromQuickOpen": false,
     "update.showReleaseNotes": false,
     "extensions.preferPreReleases": false,
     "extensions.ignoreRecommendations": true,
     "extensions.autoUpdate": false,
-    "extensions.autoCheckUpdates": false,
-    "workbench.editor.enablePreview": false
+    "extensions.autoCheckUpdates": false
 }
