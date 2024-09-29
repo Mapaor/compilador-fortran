@@ -94,7 +94,7 @@ A dins de la carpeta `/out` s'hauria d'haver creat un fitxer `fig1.png` si el cl
 ![fig1](https://github.com/user-attachments/assets/70fda62b-5cc7-4103-8024-c661c6a17d7d)
 
 
-Si hem arribat fina aquí ja estaria, tot funciona correctament. Ara ja sempre que tonreu a entrar en el vostre *codespace* ja hi haurà gnuplot instal·lat.
+Si hem arribat fina aquí ja estaria, tot funciona correctament. I el millor és que ara sempre que tonreu a entrar en el vostre *codespace* ja hi haurà gnuplot instal·lat.
 ## Informació rellevant
 Ús del Codespace i límits del pla gratuït, com aturar, reanudar i suprimir un *codespace*. Bla bla.
 ## Extra: Com funciona a nivell tècnic
