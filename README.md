@@ -4,20 +4,17 @@ Si ja estàs dins del *codespace*, segueix llegint [aquí](#un-cop-dins-del-code
 El que nosaltres volem és tenir un entorn on poder **compilar Fortran i Gnuplot de manera online** sense haver d'instal·lar ni configurar res. El mètode que seguirem ens permetrà tenir un link permanent en el qual tenim els nostres fitxers ordenats per carpetes, podem visualitzar PDFs, fitxers de dades, imatges, etc.
 
 Bàsicament tenir una **versió idèntica del Visual Studio Code** per la web que ens permet programmar sense masses complicacions si no estem davant del nostre ordinador habitual.
-<details>
-  <summary>Aquí podeu veure un vídeo demo</summary>
-  Bla bla
-</details>
 
 Aquest mètode també pot servir a mòde de *back-up* per si un dia no us funcionés l'ordinador o tinguéssiu un problema tècnic. D'aquesta manera seguiríeu tenint accés a les vostres subrutines i als vostres programes amb la possibilitat d'editar-los, executar-los i guardar-los (tan al repositori de GitHub com de manera local).
 
-## Procés per entrar en el *codespace* (és molt ràpid!)
-### 0. Videotutorial
-Per si et perds en algun pas aquí tens un videotutorial d'exemple.
+### 0. Vídeo demo
+Aquí pots veure com amb quatre clicks un/a pot compilar Fortran i Gnuplot en línia.
 <details>
 <summary>VIDEOTUTORIAL</summary>
   
 </details>
+
+## Procés per entrar en el *codespace* (és molt ràpid!)
 
 ### 1. Crea't un compte de GitHub o inicia la sessió
 Si ja tens un usuari [inicia la sessió](https://github.com/login), sinó [registra't](https://github.com/signup).
