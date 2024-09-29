@@ -8,5 +8,7 @@
     "workbench.editorAssociations": {   
         "*.md": "vscode.markdown.preview.editor",
     },
-    "tasks.defaultOutput": "none"
+    "tasks.defaultOutput": "none",
+    "timeline.showView": false,
+    "outline.showView": false
 }
