@@ -36,7 +36,7 @@ Si vols li dones un nom diferent o si vols deixes el nom per defecte. Després l
 
 Tardarà uns segons i de seguida tindràs un nou repositori en el teu perfil. Ara mira't aquest README des del TEU repositori.
 
-### 3. Generar el *codespace*
+### 3. Genera el *codespace*
 Ara simplement crea un nou *codespace* a partir del teu repositori. 
 
 Per a fer-ho obre el desplegable verd "Code" del repositori i en la pestanya "Codespaces" clica el botó que és un '+'.
