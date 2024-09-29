@@ -77,7 +77,7 @@ Escriu en la terminal el següent comandament
 ```
 gfortran --version
 ```
-Nota: pot ser que no et deixi enganxar a la terminal amb dreceres de teclat, fes servir botó dret 'Enganxa' (després pots [configurar el teu navegador](https://code.visualstudio.com/docs/editor/vscode-web#_opening-new-tabs-and-windows) perquè si que et deixi).
+Nota: pot ser que no et deixi enganxar a la terminal amb dreceres de teclat, fes servir de moment botó dret i 'Enganxa'. Després si vols pots [configurar el teu navegador](https://code.visualstudio.com/docs/editor/vscode-web#_opening-new-tabs-and-windows) perquè si que et deixi.
 
 Si et retorna el número de versió és que s'ha instal·lat correctament. 
 
