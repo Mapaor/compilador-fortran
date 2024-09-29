@@ -62,8 +62,38 @@ Tenim també una finestra principal en la que tenim diferents pestanyes (com un 
 Per últim tenim un bucador a dalt al mig i una finestra inferior on hi tenim la Terminal (i altres eines). Si en algun moment tanquem accidentalment aquesta finestra sempre la podem recuperar buscant `>Terminal` en el buscador.
 
 Nota: La diferència entre buscar `text` i buscar `>text` és important. Són dues cerques diferents. Per més informació: [VS Code - User Interface](https://code.visualstudio.com/docs/getstarted/userinterface).
-### 3. Instal·lar gnuplot
-Bla bla
+### Abans de tot, comprovar que s'ha instal·lat fortran correctament
+Escriu en la terminal el següent comandament
+```
+gfortran --version
+```
+Si et retorna el número de versió és que s'ha instal·lat correctament. 
+
+També ho pots comprovar compilant l'arxiu "prova.f90".
+1. `cd PRACTIQUES-FORTRAN` (Entrem dins de la carpeta PRACTIQUES-FORTRAN)
+2. `gfortran -o prova -prova.f90` (Compilem l'arxiu)
+3. `./prova` (Executem l'executable generat)
+
+Si veiem un "Hello World" en la consola és que ha funcionat correctament, i de pas hem aprés a compilar i executar des de la terminal.
+### Instal·lar gnuplot
+Abans hem dit una petita mentida, hem dit que no s'havia d'instal·lar res. Si bé això és cert per Fortran, s'ha optat per no instal·lar Gnuplot (ja que tarda uns 2-5 minuts) i podria fer més difícil l'experiència inicial per un usuari que acaba d'entrar al Codespace.
+
+Per a fer-ho simplement escriu a la terminal el següent:
+```
+sudo DEBIAN_FRONTEND=noninteractive apt install -y gnuplot
+```
+
+Quan acabi ja podem comprovar que funciona generant un gràfic segons "fig1.gnu". Si mirem el codi d'aquest arxiu veurem que utilitza les dades que es troben a `data/dades.dat`, les quals són una simple $y=x^2$ pels 9 primers enters. Generarem el gràfic fent:
+
+```
+gnuplot fig1.gnu
+```
+
+A dins de la carpeta `/out` s'hauria d'haver creat un fitxer `fig1.png` si el cliquem hauríem de veure una imatge com la següent
+
+Si hem arribat fina aquí ja estaria, tot funciona correctament. Ara ja sempre que tonreu a entrar en el vostre *codespace* ja hi haurà gnuplot instal·lat.
+## Informació rellevant
+Ús del Codespace i límits del pla gratuït, com aturar, reanudar i suprimir un *codespace*. Bla bla.
 ## Extra: Com funciona a nivell tècnic
 ### Carpeta .devcontainer
 En la carpeta `.devcontainer` es troba la configuració del Codespace que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
