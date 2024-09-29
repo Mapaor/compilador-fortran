@@ -16,6 +16,7 @@
     "postCreateCommand": "sudo apt update && sudo apt install -y gfortran", // Instalem gfortran,
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash",
-        "workbench.iconTheme": "material-icon-theme"  // Triem Material Icon Theme com a tema per defecte.
+        "workbench.iconTheme": "material-icon-theme",  // Triem Material Icon Theme com a tema per defecte.
+        "fortran-lang.linter-gfortran.autoUpdate": false
     }
 }
