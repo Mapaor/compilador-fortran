@@ -130,6 +130,7 @@ Ara cliqueu al botó de la part superior dreta de la finestra principal, que ser
 Se us obrirà el fitxer `keybindigs.json`, borreu el que sigui que hi hagi i poseu-hi el següent codi en funció del vostre sistema operatiu:
 #### Per a Windows o Linux
 <details><summary>Codi</summary>
+  
 ```
 // Si vols també pots modificar aquestes dreceres canviant la 'key'.
 [
@@ -153,6 +154,7 @@ Se us obrirà el fitxer `keybindigs.json`, borreu el que sigui que hi hagi i pos
   },
 ]
 ```
+
 </details>
 
 #### Per a Mac
