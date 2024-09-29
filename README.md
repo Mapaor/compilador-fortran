@@ -12,7 +12,11 @@ Aquí pots veure com amb quatre clicks un/a pot compilar Fortran i Gnuplot en l�
 <details>
   <summary>Vídeo tutorial d'exemple</summary>
   
-  [![Això és un vídeo](http://img.youtube.com/vi/YOUTUBE_iPb8vRtroLU/0.jpg)](http://www.youtube.com/watch?v=iPb8vRtroLU)
+  
+
+https://github.com/user-attachments/assets/8b3e09ae-d44b-4f6f-958c-14e8d71a3cb1
+
+
   
 </details>
 
