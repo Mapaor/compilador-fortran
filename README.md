@@ -69,7 +69,7 @@ L'entorn és idèntic al VS Code per escriptori. Disposem d'una barra lateral en
 
 Tenim també una finestra principal en la que ara estem llegint aquest README i a on editarem al nostre codi. Aquesta finestra funciona per pestanyes (com un navegador), quan obriu un arxiu (fitxer .f90 o .gnu per exemple) veurem que s'obre en una nova pestanya, la qual podem moure, tancar, etc.
 
-Per últim tenim un buscador centrat a dalt i una finestra inferior on hi tenim la Terminal (i altres eines). Si en algun moment tanquem accidentalment aquesta finestra sempre la podem recuperar buscant `>Terminal` en el buscador.
+Per últim tenim un buscador centrat a dalt i una finestra inferior on hi tenim la Terminal (entre d'altres eines). Si en algun moment tanquem accidentalment aquesta finestra sempre la podem recuperar buscant `>Terminal` en el buscador.
 
 Nota: La diferència entre buscar `text` i buscar `>text` és important. Són dues cerques diferents. Per més informació: [VS Code - User Interface](https://code.visualstudio.com/docs/getstarted/userinterface).
 ### Abans de tot, comprovar que s'ha instal·lat fortran correctament
