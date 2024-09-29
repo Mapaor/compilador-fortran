@@ -1,5 +1,5 @@
 ## Benvingut a aquesta guia!
-Si ja estàs dins del Codespace, segueix llegint [aquí](#un-cop-dins-del-codespace).
+Si ja estàs dins del *codespace*, segueix llegint [aquí](#un-cop-dins-del-codespace).
 ## Què és el que volem aconseguir?
 El que nosaltres volem és tenir un entorn on poder **compilar Fortran i Gnuplot de manera online** sense haver d'instal·lar ni configurar res. El mètode que seguirem ens permetrà tenir un link permanent en el qual tenim els nostres fitxers ordenats per carpetes, podem visualitzar PDFs, fitxers de dades, imatges, etc.
 
@@ -15,11 +15,11 @@ Aquest mètode també pot servir a mòde de *back-up* per si un dia no us funcio
 ### 1. Crea't un compte de GitHub o inicia la sessió
 Si ja tens un usuari [inicia la sessió](https://github.com/login), sinó [registra't](https://github.com/signup).
 
-Consell: Si us registreu amb el correu de la uni i més endavant realitzeu la sol·licitud per tenir [Student Benefits](https://fisicaubwiki.notion.site/Utilitzar-la-IA-GitHub-Copilot-d25a3dd6dd384b0ea4586a309a5b0fdc), obtindreu el pla GitHub Pro gratuïtament i us permetrà augmentar bastant la velocitat dels vostres Codespaces així com les hores totals de computació que podeu fer servir cada mes (realment només us caldria si ho féssiu servir molt sovint).
+Consell: Si us registreu amb el correu de la uni i més endavant realitzeu la sol·licitud per tenir [Student Benefits](https://fisicaubwiki.notion.site/Utilitzar-la-IA-GitHub-Copilot-d25a3dd6dd384b0ea4586a309a5b0fdc), obtindreu el pla GitHub Pro gratuïtament i us permetrà augmentar bastant la velocitat dels vostres *codespaces* així com les hores totals de computació que podeu fer servir cada mes (realment només us caldria si ho féssiu servir molt sovint).
 ### 2. Clica el botó verd "Use this template"
-A dalt a la dreta del repositori tens un botó verd. És un desplegable en el qual pots triar o l'opció "Open in a codespace" (si simplement volguéssis veure que efectivament es pot compilar des d'un Codespace) o l'opció "Create a new repository", que és la que seguirem en aquesta guia i et permetrà tenir un entorn permanent en el que poder compilar i que podràs personalitzar com vulguis i posar-hi tots els teus fitxers.
+A dalt a la dreta del repositori tens un botó verd. És un desplegable en el qual pots triar o l'opció "Open in a codespace" (si simplement volguéssis veure que efectivament es pot compilar des d'un *codespace*) o l'opció "Create a new repository", que és la que seguirem en aquesta guia i et permetrà tenir un entorn permanent en el que poder compilar i que podràs personalitzar com vulguis i posar-hi tots els teus fitxers.
 
-Per anar més ràpid (opció "Create a new repository") aquí tens una versió del mateix botó. Fes `Ctrl+Click` per obrir-ho en una pestanya nova.
+Per anar més ràpid (opció "Create a new repository") aquí tens una versió del mateix botó. Consell: Fes `Ctrl+Click` per obrir-ho en una pestanya nova.
 
 [![Create a new repository](https://img.shields.io/badge/Use_this_Template-green.svg)](https://github.com/Mapaor/compilador-fortran/generate)
 
