@@ -144,7 +144,7 @@ Se us obrirà el fitxer `keybindigs.json`, borreu el que sigui que hi hagi i pos
     "key": "Ctrl+Shift+B",
     "command": "workbench.action.tasks.runTask",
     "when": "resourceExtname == .gnu",
-    "args": "Create Plot"
+    "args": "Run Gnuplot"
   },
   {
     "key": "Ctrl+Alt+B",
@@ -173,7 +173,7 @@ Se us obrirà el fitxer `keybindigs.json`, borreu el que sigui que hi hagi i pos
     "key": "Cmd+Shift+B",
     "command": "workbench.action.tasks.runTask",
     "when": "resourceExtname == .gnu",
-    "args": "Create Plot"
+    "args": "Run Gnuplot"
   },
   {
     "key": "Cmd+Alt+B",
