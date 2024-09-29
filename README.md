@@ -111,7 +111,9 @@ A dins de la carpeta `/out` s'hauria d'haver creat un fitxer `fig1.png`, si el c
 Si hem arribat fins aquí ja estaria, tot funciona correctament. Ara sempre que torneu a entrar en el vostre *codespace* ja hi haurà gnuplot instal·lat, i els canvis que aneu fent (tan d'arxius com de configuració/personalització) també s'aniran guardant automàticament.
 
 A continuació explicarem una última cosa, com compilar un arxiu fortran o gnuplot sense haver d'escriure els mateixos comandaments una vegada i una altra en la terminal.
-### Dreceres de teclat per compilar directament
+### Compilar a partir del Task Runner
+Si et fixes dins l'Explorador hi tens els teus arxius i a la part de baix hi tens alguns desplegables.
+### Opcional: Dreceres de teclat per compilar directament
 Les dreceres de teclat, així com el color de tema i d'altres, són personalitzacions de l'usuari (no es poden configurar en el repositori de GitHub). Ara aprendrem com configurar-les per tal de poder compilar sense haver d'utilitzar cap commandament. 
 
 Primer caldrà que accediu al fitxer `keybindigs.json`. Per a fer-ho aneu a les tres barres a sobre de l'icona de l'explorador, a continuació 'Fitxer', 'Preferències', i cliqueu l'opció 'Keyboard Shortcuts'. Se us obrirà un fitxer amb totes les dreceres de teclat.
