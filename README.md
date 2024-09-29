@@ -106,9 +106,9 @@ Per evitar notificacions molestes innecessàries.
 ## Extra: TIPS pel VSCode
 ### Canviar el tema
 - Pots canviar el tema clicant l'icona de "Settings" després a "Temes" i "Tema de Color". Tria el que més t'agradi.
-- Pots afegir les extensions que consideris. Per a fer-ho busca-les i instala-les, comprova que realitzen la funció que vols.
+- Pots afegir les extensions que consideris. Per a fer-ho buscales i instal·lales i comprova que realitzen la funció que vols.
 
-  Nota: Si no borrésis mai el Codespace en el que estàs podrien fer servir aquesta extensió sempre que vulguis. Tot i així per si de cas volguéssis un dia reiniciar des de zero el Codespace, és millor que la instal·lis bé. Segueix els següents passos:
+  Nota: Si no suprimíssis mai el Codespace en el que estàs treballant podries fer servir sempre aquesta extensió. Tot i així per si de cas volguéssis un dia reiniciar des de zero el Codespace, és millor que la instal·lis bé. Segueix els següents passos:
   1. Busca-la al [VS Code Marketplace](https://marketplace.visualstudio.com/vscode)
   2. Un cop dins la pàgina de l'extensió fixa't en la URL. Copia el que ve després de "Name=Url", per exemple pel Modern Fortran seria `fortran-lang.linter-gfortran`.
   3. Afegeix l'extensió al fitxer `devcontainer.json` (que es troba dins de la carpeta `.devcontainer`) en la part de `extensions` en una nova línia al final de tot.
