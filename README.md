@@ -12,7 +12,7 @@ Bàsicament tenir una **versió idèntica del Visual Studio Code** per la web qu
 Aquest mètode també pot servir a mòde de *back-up* per si un dia no us funcionés l'ordinador o tinguéssiu un problema tècnic. D'aquesta manera seguiríeu tenint accés a les vostres subrutines i als vostres programes amb la possibilitat d'editar-los, executar-los i guardar-los (tan al repositori de GitHub com de manera local).
 
 ## Procés per entrar en el *codespace* (és molt ràpid!)
-### Videotutorial
+### 0. Videotutorial
 Per si et perds en algun pas aquí tens un videotutorial d'exemple.
 <details>
 <summary>VIDEOTUTORIAL</summary>
