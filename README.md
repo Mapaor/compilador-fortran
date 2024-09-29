@@ -39,8 +39,9 @@ Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i ai
 
   Nota: Si no borrésis mai el Codespace en el que estàs podrien fer servir aquesta extensió sempre que vulguis. Tot i així per si de cas volguéssis un dia reiniciar des de zero el Codespace, és millor que la instal·lis bé. Segueix els següents passos:
   1. Busca-la al [VS Code Marketplace](https://marketplace.visualstudio.com/vscode)
-  2. Un cop dins la pàgina de l'extensió fixa't en la URL. Copia el que ve després de "Name=Url", per exemple pel Modern Fortran seria `https://marketplace.visualstudio.com/vscode`.
+  2. Un cop dins la pàgina de l'extensió fixa't en la URL. Copia el que ve després de "Name=Url", per exemple pel Modern Fortran seria `fortran-lang.linter-gfortran`.
   3. Afegeix l'extensió al fitxer `devcontainer.json` (que es troba dins de la carpeta `.devcontainer`) en la part de `extensions` en una nova línia al final de tot.
+  4. 
      Nota: No oblidis deixar-te la coma al final de la línia anterior per tal que el JSON tingui el format correcte!
 
 ---------
