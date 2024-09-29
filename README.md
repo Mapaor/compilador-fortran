@@ -109,18 +109,26 @@ A dins de la carpeta `/out` s'hauria d'haver creat un fitxer `fig1.png`, si el c
 
 
 Si hem arribat fina aquí ja estaria, tot funciona correctament. I el millor és que ara sempre que torneu a entrar en el vostre *codespace* ja hi haurà gnuplot instal·lat, així com tots els canvis que aneu fent (tan d'arxius com de configuració/personalització).
+### Dreceres de teclat per compilar directament: `keybindings.json`
+Les dreceres de teclat, així com el color de tema i d'altres, són personalitzacions de l'usuari (no es poden configurar en el repositori de GitHub). Ara aprendrem com configurar-les per poder compilar sense haver d'escriure res a la terminal. 
+
+Primer caldrà que accediu al fitxer `keybindigs.json`. Per a fer-ho aneu a les tres barres a sobre de l'icona de l'explorador, a continuació 'Fitxer', 'Preferències', i cliqueu la opció 'Keyboard Shortcuts'. Se us obrirà un fitxer amb totes les dreceres de teclat.
+
+Ara cliqueu al botó de la part superior dreta de la finestra principal, que serveix per canviar entre visualització i codi font (per exemple també serveix per canviar entre el codi d'un fitxer markdown i la seva correcta visualització) 
+
+<img width="184" alt="canvi-souruce" src="https://github.com/user-attachments/assets/5ea89499-e257-4542-b03c-8999db6b4208">
+
+Se us obrirà el fitxer `keybindigs.json`, borreu el que sigui que hi hagi.
+#### Per a Windows
+Bla bla
+#### Per a Mac
+Bla bla
 ## Informació rellevant
 Ús del Codespace i límits del pla gratuït, com aturar, reanudar i suprimir un *codespace*. Bla bla.
 ## Com guardar els canvis a GitHub
 Bla bla
 ## Com guardar els fitxers localment
 Bla bla
-## Extra: Com funciona a nivell tècnic
-### Què hi ha en la carpeta .devcontainer?
-En la carpeta `.devcontainer` es troba la configuració del *codespace* que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
-Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i així podem anar programant de mentrestant.
-### Què hi ha en la carpeta .vscode?
-En la carpeta `.vscode`  hi ha per una banda dins de `settings.json` alguns ajustaments del editor de text per tal d'evitar notificacions molestes innecessàries. I dins de `tasks.json` i `keybindings.json` la configuració per tal de poder compilar i executar fortran i gnuplot sense haver d'escriure-ho a la terminal.
 ## Extra: TIPS pel VSCode
 ### Canviar el tema
 Pots canviar el tema clicant l'icona de "Settings" després a "Temes" i "Tema de Color". Tria el que més t'agradi.
@@ -133,3 +141,9 @@ Nota: Si no suprimíssis mai el *codespace* en el que estàs treballant podries 
 3. Afegeix l'extensió al fitxer `devcontainer.json` (que es troba dins de la carpeta `.devcontainer`) en la part de `extensions` en una nova línia al final de tot.
   
    Nota: No oblidis deixar-te la coma al final de la línia anterior per tal que el JSON tingui el format correcte!
+## Extra: Com funciona a nivell tècnic
+### Què hi ha en la carpeta .devcontainer?
+En la carpeta `.devcontainer` es troba la configuració del *codespace* que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
+Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i així podem anar programant de mentrestant.
+### Què hi ha en la carpeta .vscode?
+En la carpeta `.vscode`  hi ha per una banda dins de `settings.json` alguns ajustaments del editor de text per tal d'evitar notificacions molestes innecessàries. I dins de `tasks.json` i `keybindings.json` la configuració per tal de poder compilar i executar fortran i gnuplot sense haver d'escriure-ho a la terminal.
