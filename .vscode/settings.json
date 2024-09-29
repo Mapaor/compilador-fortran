@@ -1,5 +1,5 @@
 {
-    // Desactivem notificacions innecessàries
+    // Desactivem notificacions innecessaries
     "fortran.fortls.disabled": true,
     "update.showReleaseNotes": false,
     "extensions.preferPreReleases": false,
