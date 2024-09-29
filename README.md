@@ -116,11 +116,11 @@ Bla bla
 ## Com guardar els fitxers localment
 Bla bla
 ## Extra: Com funciona a nivell tècnic
-### Carpeta .devcontainer
+### Què hi ha en la carpeta .devcontainer
 En la carpeta `.devcontainer` es troba la configuració del *codespace* que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
 Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i així podem anar programant de mentrestant.
-### Carpeta .vscode
-Hi ha alguns ajustaments del editor de text per tal d'evitar notificacions molestes innecessàries.
+### Què hi ha en la carpeta .vscode
+En la carpeta `.vscode` simplement hi ha alguns ajustaments del editor de text per tal d'evitar notificacions molestes innecessàries.
 ## Extra: TIPS pel VSCode
 ### Canviar el tema
 Pots canviar el tema clicant l'icona de "Settings" després a "Temes" i "Tema de Color". Tria el que més t'agradi.
