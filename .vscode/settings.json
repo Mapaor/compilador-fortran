@@ -4,5 +4,6 @@
     "extensions.preferPreReleases": false,
     "extensions.ignoreRecommendations": true,
     "extensions.autoUpdate": false,
-    "extensions.autoCheckUpdates": false
+    "extensions.autoCheckUpdates": false,
+    "workbench.editor.enablePreview": false
 }
