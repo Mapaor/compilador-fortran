@@ -42,7 +42,7 @@ Ara simplement crea un nou *codespace* a partir del teu repositori.
 Per a fer-ho obre el desplegable verd "Code" del repositori i en la pestanya "Codespaces" clica el botó que és un '+'.
 <details>
 <summary>Imatge d'exemple</summary>
-  ![imatge](https://github.com/user-attachments/assets/25ea5146-3311-4f8a-909d-3bfdeac733c4)
+  <img width="349" alt="new_code_space" src="https://github.com/user-attachments/assets/737c9403-63fe-4c9a-86bf-1b472c894501">
 </details>
 
 Nota: Podria ser segons com que et donés un _network error_.
