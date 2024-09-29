@@ -110,11 +110,11 @@ A dins de la carpeta `/out` s'hauria d'haver creat un fitxer `fig1.png`, si el c
 
 Si hem arribat fins aquí ja estaria, tot funciona correctament. Ara sempre que torneu a entrar en el vostre *codespace* ja hi haurà gnuplot instal·lat, i els canvis que aneu fent (tan d'arxius com de configuració/personalització) també s'aniran guardant automàticament.
 
-A continuació explicarem una última cosa, com personalitzar el fet de compilar un arxiu fortran o gnuplot sense haver d'escriure els mateixos comandaments una vegada i una altra.
+A continuació explicarem una última cosa, com compilar un arxiu fortran o gnuplot sense haver d'escriure els mateixos comandaments una vegada i una altra en la terminal.
 ### Dreceres de teclat per compilar directament
-Les dreceres de teclat, així com el color de tema i d'altres, són personalitzacions de l'usuari (no es poden configurar en el repositori de GitHub). Ara aprendrem com configurar-les per poder compilar sense haver d'escriure res a la terminal. 
+Les dreceres de teclat, així com el color de tema i d'altres, són personalitzacions de l'usuari (no es poden configurar en el repositori de GitHub). Ara aprendrem com configurar-les per tal de poder compilar sense haver d'utilitzar cap commandament. 
 
-Primer caldrà que accediu al fitxer `keybindigs.json`. Per a fer-ho aneu a les tres barres a sobre de l'icona de l'explorador, a continuació 'Fitxer', 'Preferències', i cliqueu la opció 'Keyboard Shortcuts'. Se us obrirà un fitxer amb totes les dreceres de teclat.
+Primer caldrà que accediu al fitxer `keybindigs.json`. Per a fer-ho aneu a les tres barres a sobre de l'icona de l'explorador, a continuació 'Fitxer', 'Preferències', i cliqueu l'opció 'Keyboard Shortcuts'. Se us obrirà un fitxer amb totes les dreceres de teclat.
 
 Ara cliqueu al botó de la part superior dreta de la finestra principal, que serveix per canviar entre visualització i codi font (per exemple també serveix per canviar entre el codi d'un fitxer markdown i la seva correcta visualització) 
 
