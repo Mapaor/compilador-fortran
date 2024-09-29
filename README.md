@@ -72,7 +72,7 @@ Si et retorna el número de versió és que s'ha instal·lat correctament.
 També ho pots comprovar compilant l'arxiu "prova.f90".
 1. `cd PRACTIQUES-FORTRAN` (Entrem dins de la carpeta PRACTIQUES-FORTRAN)
 2. `gfortran -o prova -prova.f90` (Compilem l'arxiu)
-3. `./prova` (Executem l'executable generat)
+3. `./prova` (Executem l'executable)
 
 Si veiem un "Hello World" en la consola és que ha funcionat correctament, i de pas hem aprés a compilar i executar des de la terminal.
 ### Instal·lar gnuplot
