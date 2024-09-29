@@ -109,7 +109,9 @@ A dins de la carpeta `/out` s'hauria d'haver creat un fitxer `fig1.png` si el cl
 Si hem arribat fina aquí ja estaria, tot funciona correctament. I el millor és que ara sempre que torneu a entrar en el vostre *codespace* ja hi haurà gnuplot instal·lat, així com tots els canvis que aneu fent (tan d'arxius com de configuració/personalització).
 ## Informació rellevant
 Ús del Codespace i límits del pla gratuït, com aturar, reanudar i suprimir un *codespace*. Bla bla.
-## Com guardar els canvis a GitHub i localment
+## Com guardar els canvis a GitHub
+Bla bla
+## Com guardar els fitxers localment
 Bla bla
 ## Extra: Com funciona a nivell tècnic
 ### Carpeta .devcontainer
