@@ -108,7 +108,7 @@ A dins de la carpeta `/out` s'hauria d'haver creat un fitxer `fig1.png`, si el c
 ![fig1](https://github.com/user-attachments/assets/70fda62b-5cc7-4103-8024-c661c6a17d7d)
 
 
-Si hem arribat fina aquí ja estaria, tot funciona correctament. I el millor és que ara sempre que torneu a entrar en el vostre *codespace* ja hi haurà gnuplot instal·lat, així com tots els canvis que aneu fent (tan d'arxius com de configuració/personalització).
+Si hem arribat fins aquí ja estaria, tot funciona correctament. Ara sempre que torneu a entrar en el vostre *codespace* ja hi haurà gnuplot instal·lat, i els canvis que aneu fent (tan d'arxius com de configuració/personalització) també s'aniran guardant automàticament. A continuació explicarem una última cosa, com personalitzar el fet de compilar un arxiu fortran o gnuplot sense haver d'escriure els mateixos comandaments una vegada i una altra.
 ### Dreceres de teclat per compilar directament
 Les dreceres de teclat, així com el color de tema i d'altres, són personalitzacions de l'usuari (no es poden configurar en el repositori de GitHub). Ara aprendrem com configurar-les per poder compilar sense haver d'escriure res a la terminal. 
 
