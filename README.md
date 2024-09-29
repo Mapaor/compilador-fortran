@@ -83,7 +83,7 @@ Per a fer-ho simplement escriu a la terminal el següent:
 sudo DEBIAN_FRONTEND=noninteractive apt install -y gnuplot
 ```
 
-Quan acabi ja podem comprovar que funciona generant un gràfic segons "fig1.gnu". Si mirem el codi d'aquest arxiu veurem que utilitza les dades que es troben a `data/dades.dat`, les quals són una simple $y=x^2$ pels 9 primers enters. Generarem el gràfic fent:
+Quan acabi ja podem comprovar que funciona generant un gràfic compilant el programa "fig1.gnu". Si mirem el codi d'aquest arxiu veurem que utilitza les dades que es troben a `data/dades.dat`, les quals són una simple $y=x^2$ pels 9 primers enters. Generarem el gràfic fent:
 
 ```
 gnuplot fig1.gnu
