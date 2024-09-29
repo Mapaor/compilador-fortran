@@ -97,13 +97,13 @@ Per a fer-ho simplement escriu a la terminal el següent:
 sudo DEBIAN_FRONTEND=noninteractive apt install -y gnuplot
 ```
 
-Quan acabi ja podem comprovar que funciona generant un gràfic compilant el programa "fig1.gnu". Si mirem el codi d'aquest arxiu veurem que utilitza les dades que es troben a `data/dades.dat`, les quals són una simple $y=x^2$ pels 9 primers enters. Generarem el gràfic fent:
+Quan acabi ja podem comprovar que funciona compilant el programa "fig1.gnu". Si mirem el codi d'aquest arxiu veurem que utilitza les dades que es troben a `data/dades.dat`, les quals són una simple $y=x^2$ pels primers 9 enters. Generarem el gràfic fent:
 
 ```
 gnuplot fig1.gnu
 ```
 
-A dins de la carpeta `/out` s'hauria d'haver creat un fitxer `fig1.png` si el cliquem hauríem de veure una imatge com la següent
+A dins de la carpeta `/out` s'hauria d'haver creat un fitxer `fig1.png`, si el cliquem hauríem de veure una imatge com la següent:
 
 ![fig1](https://github.com/user-attachments/assets/70fda62b-5cc7-4103-8024-c661c6a17d7d)
 
@@ -118,9 +118,9 @@ Bla bla
 ## Extra: Com funciona a nivell tècnic
 ### Carpeta .devcontainer
 En la carpeta `.devcontainer` es troba la configuració del *codespace* que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
-Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i així podem anar programant de mentres.
+Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i així podem anar programant de mentrestant.
 ### Carpeta .vscode
-Per evitar notificacions molestes innecessàries.
+Hi ha alguns ajustaments del editor de text per tal d'evitar notificacions molestes innecessàries.
 ## Extra: TIPS pel VSCode
 ### Canviar el tema
 Pots canviar el tema clicant l'icona de "Settings" després a "Temes" i "Tema de Color". Tria el que més t'agradi.
