@@ -36,22 +36,22 @@ Si vols li dones un nom diferent o si vols deixes el nom per defecte. Després l
 
 Tardarà uns segons i de seguida tindràs un nou repositori en el teu perfil. Ara mira't aquest README des del TEU repositori.
 
-### 2. Executar el Codespace
-Crea un nou Codespace a partir del teu repositori.
+### 3. Generar el *codespace*
+Ara simplement crea un nou *codespace* a partir del teu repositori. 
+
+Per a fer-ho obre el desplegable verd "Code" del repositori i en la pestanya "Codespaces" clica el botó que és un '+'.
 <details>
-<summary>Com crear un Codespace a partir d'un repositori?</summary>
-  Simplement obra el desplegable "Code" i en la pestanya "Codespaces" clica el botó que és un '+'.
-  
+<summary>Imatge d'exemple</summary>
   ![imatge](https://github.com/user-attachments/assets/25ea5146-3311-4f8a-909d-3bfdeac733c4)
 </details>
 
-Nota: Podria ser que et donés network error.
+Nota: Podria ser segons com que et donés un _network error_.
 <details>
-<summary>Què fer si em dona error?</summary>
-  Segurament sigui degut a que tens un ad-blocker o una extensió que restringeix alguna funcionalitat del navegador, o ho estàs obrint en una pestanya d'incògnit. Prova a descativar temporalment alguna de les extensions o canviar de navegador.
+<summary>Què fer si em dona aquest error?</summary>
+  Segurament sigui degut a que tens un ad-blocker o una extensió que restringeix alguna funcionalitat del navegador, o que ho estàs obrint en una pestanya d'incògnit. Prova a descativar temporalment alguna de les extensions o canviar de navegador.
 </details>
 
-## Un cop dins del Codespace
+## Un cop dins del *codespace*
 ### Felicitats
 Molt bé, felicitats. Ara mentre esperes que s'acabin d'instal·lar les extensions i el gfortran (aprox 1 min) pots anar llegint la resta del README.
 ### L'espai de treball
