@@ -114,6 +114,9 @@ A continuació explicarem una última cosa, com compilar un arxiu fortran o gnup
 ### Compilar a partir del Task Runner
 Si et fixes dins de l'Explorador hi tens les teves carpetes i arxius, però també hi tens un desplegable a la part inferior anomenat "Task Runner". Si el desplegues veuràs que hi ha les quatre tasques configurades en el fitxer `tasks.json` (dins de `.vscode`). 
 
+![Build and run](https://github.com/user-attachments/assets/d726a4de-0d7e-4cff-86e7-84c47b5694b5)
+
+
 Aquestes tal com el seu nom indica, permeten compilar i executar fortran i gnuplot, i també generar les carpetes 'data', 'exes' i 'out' automàticament. 
 
 Nota: Si voleu treballar sense aquest *workflow* de carpetes, sentiu-vos lliures de canviar el codi de `tasks.json` pel que més us agradi.
