@@ -1,6 +1,5 @@
 {
     "fortran.fortls.disabled": true,
-    "fortran.showReleaseNotes": false,
     "workbench.editor.enablePreviewFromCodeNavigation": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "update.showReleaseNotes": false,
