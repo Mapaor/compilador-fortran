@@ -11,7 +11,7 @@ Aquest mètode també pot servir a mòde de *back-up* per si un dia no us funcio
 Aquí pots veure com amb quatre clicks un/a pot compilar Fortran i Gnuplot en línia.
 <details>
   <summary>Vídeo tutorial d'exemple</summary>
-  https://github.com/user-attachments/assets/31f4ed84-1f8d-44e1-9c44-096096bcde7b
+  [![Això és un vídeo](http://img.youtube.com/vi/YOUTUBE_iPb8vRtroLU/0.jpg)](http://www.youtube.com/watch?v=iPb8vRtroLU)
 </details>
 
 ## Procés per entrar en el *codespace* (és molt ràpid!)
