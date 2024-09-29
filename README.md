@@ -17,14 +17,42 @@ Si ja tens un usuari [inicia la sessió](https://github.com/login), sinó [regis
 
 Consell: Si us registreu amb el correu de la uni i més endavant realitzeu la sol·licitud per tenir [Student Benefits](https://fisicaubwiki.notion.site/Utilitzar-la-IA-GitHub-Copilot-d25a3dd6dd384b0ea4586a309a5b0fdc), obtindreu el pla GitHub Pro gratuïtament i us permetrà augmentar bastant la velocitat dels vostres Codespaces així com les hores totals de computació que podeu fer servir cada mes (només us caldria si ho féssiu servir molt sovint).
 ### 2. Clica el botó verd "Use this template"
-A dalt a la dreta del repositori tens un botó verd, el qual és un desplegable en el qual pots triar o l'opció "Open in a codespace" (Si simplement volguéssis veure que efectivament es pot compilar en aquell espai) o l'opció "Create a new repository", que és la que seguirem en aquesta guia i et permetrà tenir un entorn permanent en el que poder compilar i que podràs personalitzar com vulguis i posar-hi tots els teus fitxers.
+A dalt a la dreta del repositori tens un botó verd. És un desplegable en el qual pots triar o l'opció "Open in a codespace" (Si simplement volguéssis veure que efectivament es pot compilar en aquell espai) o l'opció "Create a new repository", que és la que seguirem en aquesta guia i et permetrà tenir un entorn permanent en el que poder compilar i que podràs personalitzar com vulguis i posar-hi tots els teus fitxers.
 
-Per l'opció "Create a new repository" si vols pots simplement clicar el següent botó:
+Per anar més ràpid (opció "Create a new repository") aquí tens una versió del mateix botó. Fes `Ctrl+Click` per obrir-ho en una pestanya nova.
 
 [![Create a new repository](https://img.shields.io/badge/Use_this_Template-green.svg)](https://github.com/Mapaor/compilador-fortran/generate)
 
-És 
- 
+El que estàs fent ara és clonar (*fork* en slang de GitHub) el meu repositori per tu crear-ne un idèntic (una còpia que serà teva i podràs fer amb ella el que vulguis).
+<details>
+  <summary>Imatge d'exemple</summary>
+  <img width="571" alt="Screenshot 2024-09-28 at 23-28-54 Fork Mapaor_compilador-fortran" src="https://github.com/user-attachments/assets/255c396c-483b-4224-8591-98c7cb50c671">
+</details>
+
+Si vols li dones un nom diferent o si vols deixes el nom per defecte. Després li dones al botó verd de "Create Fork" a baix a la dreta.
+
+<details>
+  <summary>Imatge d'exemple</summary>
+  <img width="941" alt="fork_example" src="https://github.com/user-attachments/assets/837b49ec-72d8-4697-972d-3f07d4ffebdd">
+</details>
+
+Tardarà uns segons i de seguida tindràs un nou repositori en el teu perfil. Ara mira't aquest README des del TEU repositori.
+
+### 2. Executar el Codespace
+Crea un nou Codespace a partir del teu repositori.
+<details>
+<summary>Com crear un Codespace a partir d'un repositori?</summary>
+  Simplement obra el desplegable "Code" i en la pestanya "Codespaces" clica el botó que és un '+'.
+  
+  ![imatge](https://github.com/user-attachments/assets/25ea5146-3311-4f8a-909d-3bfdeac733c4)
+</details>
+
+Nota: Podria ser que et donés network error.
+<details>
+<summary>Què fer si em dona error?</summary>
+  Segurament sigui degut a que tens un ad-blocker o una extensió que restringeix alguna funcionalitat del navegador, o ho estàs obrint en una pestanya d'incògnit. Prova a descativar temporalment alguna de les extensions o canviar de navegador.
+</details>
+
 ## Un cop dins del Codespace
 ### Felicitats
 Molt bé, felicitats. Ara mentre esperes que s'acabin d'instal·lar les extensions i el gfortran (aprox 1 min) pots anar llegint la resta del README.
@@ -48,36 +76,3 @@ Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i ai
   3. Afegeix l'extensió al fitxer `devcontainer.json` (que es troba dins de la carpeta `.devcontainer`) en la part de `extensions` en una nova línia al final de tot.
   4. 
      Nota: No oblidis deixar-te la coma al final de la línia anterior per tal que el JSON tingui el format correcte!
-
----------
-## Antic
-Allà hi desactivem algunes coses que molestarien a l'usuari, triem un tema per defecte i facilitem el fet de compilar i executar el codi.
-Un/a només pot executar un repositori com a codespace si n'és el propietari. Per a fer-ho cal que clonis aquest repositori. 
-<details>
-<summary>Com clonar un repositori?</summary>
-  1. Cliques a "fork" a dalt a la dreta.
-  
-  <img width="941" alt="fork_example" src="https://github.com/user-attachments/assets/837b49ec-72d8-4697-972d-3f07d4ffebdd">
-  
-  2. Si vols li dones un nom diferent (el repositori serà una còpia idèntica, però serà la teva còpia, pots fer amb ella el que vulguis) o si vols deixes el nom per defecte. Li dones al botó verd de "Create Fork".
-
-  <img width="571" alt="Screenshot 2024-09-28 at 23-28-54 Fork Mapaor_compilador-fortran" src="https://github.com/user-attachments/assets/255c396c-483b-4224-8591-98c7cb50c671">
-  
-  Tardarà uns pocs segons a crear-lo i de seguida tindràs un nou repositori en el teu perfil. 
-</details>
-
-Ara mira't aquest README des del TEU repositori.
-### 2. Executar el Codespace
-Crea un nou Codespace a partir del teu repositori.
-<details>
-<summary>Com crear un Codespace a partir d'un repositori?</summary>
-  Simplement obra el desplegable "Code" i en la pestanya "Codespaces" clica el botó que és un '+'.
-  
-  ![imatge](https://github.com/user-attachments/assets/25ea5146-3311-4f8a-909d-3bfdeac733c4)
-</details>
-
-Nota: Podria ser que et donés network error.
-<details>
-<summary>Què fer si em dona error?</summary>
-  Segurament sigui degut a que tens un ad-blocker o una extensió que restringeix alguna funcionalitat del navegador, o ho estàs obrint en una pestanya d'incògnit. Prova a descativar temporalment alguna de les extensions o canviar de navegador.
-</details>
