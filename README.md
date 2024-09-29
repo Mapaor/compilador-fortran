@@ -67,9 +67,9 @@ Molt bé, enhorabona! Estàs llegint aquest README des de dins del *codespace*. 
 ### L'espai de treball
 L'entorn és idèntic al VS Code per escriptori. Disposem d'una barra lateral en la que trobem els nostres fitxers dins la pestanya "Explorador" (<kbd>Ctrl</kbd>+<kbd>Majús</kbd>+<kbd>E</kbd>), o si volem també podem buscar i instal·lar extensions en la pestanya "Extensions" (<kbd>Ctrl</kbd>+<kbd>Majús</kbd>+<kbd>X</kbd>), o publicar els canvis fets al respositori en la pestanya "Control d'Orígen"  (<kbd>Ctrl</kbd>+<kbd>Majús</kbd>+<kbd>M</kbd>), això ho explicarem [més endavant](#com-guardar-els-canvis-a-github).
 
-Tenim també una finestra principal en la que tenim diferents pestanyes (com un navegador). Segurament ara està oberta [Visualització prèvia | README.md]. Si despleguem la carpeta PRACTIQUES-FORTRAN i cliquem l'arxiu "prova.f90" hauríem de veure com se'ns obra en aquesta finestra principal en una nova pestanya.
+Tenim també una finestra principal en la que ara estem llegint aquest README i a on editarem al nostre codi. Aquesta finestra funciona per pestanyes (com un navegador), quan obriu un arxiu (fitxer .f90 o .gnu per exemple) veurem que s'obre en una nova pestanya, la qual podem moure, tancar, etc.
 
-Per últim tenim un bucador a dalt al mig i una finestra inferior on hi tenim la Terminal (i altres eines). Si en algun moment tanquem accidentalment aquesta finestra sempre la podem recuperar buscant `>Terminal` en el buscador.
+Per últim tenim un buscador centrat a dalt i una finestra inferior on hi tenim la Terminal (i altres eines). Si en algun moment tanquem accidentalment aquesta finestra sempre la podem recuperar buscant `>Terminal` en el buscador.
 
 Nota: La diferència entre buscar `text` i buscar `>text` és important. Són dues cerques diferents. Per més informació: [VS Code - User Interface](https://code.visualstudio.com/docs/getstarted/userinterface).
 ### Abans de tot, comprovar que s'ha instal·lat fortran correctament
@@ -77,6 +77,8 @@ Escriu en la terminal el següent comandament
 ```
 gfortran --version
 ```
+Nota: pot ser que no et deixi enganxar a la terminal amb dreceres de teclat, fes servir botó dret 'Enganxa' (després pots [configurar el teu navegador](https://code.visualstudio.com/docs/editor/vscode-web#_opening-new-tabs-and-windows) perquè si que et deixi).
+
 Si et retorna el número de versió és que s'ha instal·lat correctament. 
 
 També ho pots comprovar compilant l'arxiu "prova.f90".
