@@ -65,7 +65,7 @@ Nota: Podria ser segons com que et donés un _network error_.
 ### Primer de tot felicitats!
 Molt bé, enhorabona! Estàs llegint aquest README des de dins del *codespace*. Ara mentre esperes que s'acabin d'instal·lar les extensions i el gfortran (aprox 1 min) pots anar llegint com funciona aquest editor (VS Code) i com treure'n el màxim de profit. En breus realitzarem un exemple en què compiles un arxiu de fortran i un de gnuplot.
 ### L'espai de treball
-De la mateixa manera que en el VSCode per escriptori, disposem d'una barra lateral en la que tenim els nostres fitxers i podem canviar (funciona per pestanyes) al mode "Extensions" per buscar i afegir-ne una o al mode "Workspace" (on tenim els nostres arxius), entre d'altres.
+L'entorn és idèntic al VS Code per escriptori. Disposem d'una barra lateral en la que trobem els nostres fitxers dins la pestanya "Explorador" (<kbd>Ctrl</kbd>+<kbd>Majús</kbd>+<kbd>E</kbd>), o si volem també podem buscar i instal·lar extensions en la pestanya "Extensions" (<kbd>Ctrl</kbd>+<kbd>Majús</kbd>+<kbd>X</kbd>), o publicar els canvis fets al respositori en la pestanya "Control d'Orígen"  (<kbd>Ctrl</kbd>+<kbd>Majús</kbd>+<kbd>M</kbd>). Això ho explicarem més endavant.
 
 Tenim també una finestra principal en la que tenim diferents pestanyes (com un navegador). Segurament ara està oberta [Visualització prèvia | README.md]. Si despleguem la carpeta PRACTIQUES-FORTRAN i cliquem l'arxiu "prova.f90" hauríem de veure com se'ns obra en aquesta finestra principal en una nova pestanya.
 
@@ -109,6 +109,8 @@ A dins de la carpeta `/out` s'hauria d'haver creat un fitxer `fig1.png` si el cl
 Si hem arribat fina aquí ja estaria, tot funciona correctament. I el millor és que ara sempre que torneu a entrar en el vostre *codespace* ja hi haurà gnuplot instal·lat, així com tots els canvis que aneu fent (tan d'arxius com de configuració/personalització).
 ## Informació rellevant
 Ús del Codespace i límits del pla gratuït, com aturar, reanudar i suprimir un *codespace*. Bla bla.
+## Com guardar els canvis a GitHub i localment
+Bla bla
 ## Extra: Com funciona a nivell tècnic
 ### Carpeta .devcontainer
 En la carpeta `.devcontainer` es troba la configuració del *codespace* que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
