@@ -29,9 +29,7 @@ Si ja tens un usuari [inicia la sessió](https://github.com/login), sinó [regis
 
 Consell: Si us registreu amb el correu de la uni i més endavant realitzeu la sol·licitud per tenir [Student Benefits](https://fisicaubwiki.notion.site/Utilitzar-la-IA-GitHub-Copilot-d25a3dd6dd384b0ea4586a309a5b0fdc), obtindreu el pla GitHub Pro gratuïtament i us permetrà augmentar bastant la velocitat dels vostres *codespaces* així com les hores totals de computació que podeu fer servir cada mes (realment només us caldria si ho féssiu servir molt sovint).
 ### 2. Clica el botó verd "Use this template"
-A dalt a la dreta del repositori tens un botó verd. És un desplegable en el qual pots triar o l'opció "Open in a codespace" (si simplement volguéssis veure que efectivament es pot compilar des d'un *codespace*) o l'opció "Create a new repository", que és la que seguirem en aquesta guia i et permetrà tenir un entorn permanent en el que poder compilar i que podràs personalitzar com vulguis i posar-hi tots els teus fitxers.
-
-Per anar més ràpid (opció "Create a new repository") aquí tens una versió del mateix botó. 
+A dalt a la dreta del repositori tens un botó verd que et permet crear un nou repositori a partir d'aquesta *template*. Per anar més ràpid, aquí tens una versió del mateix botó. 
 
 Consell: Fes <kbd>Ctrl</kbd>+<kbd>Click</kbd> o <kbd>&#8984;</kbd>+<kbd>Click</kbd> per obrir-ho en una pestanya nova.
 
