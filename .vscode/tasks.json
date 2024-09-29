@@ -2,8 +2,52 @@
   "version": "2.0.0",
   "tasks": [
     {
+      "label": "Create Folders",
       "type": "shell",
-      "command": "echo 'Hello VSCode'"
+      "command": "mkdir -p exes data out",
+      "options": {
+        "cwd": "${fileDirname}"
+      },
+      "problemMatcher": [],
+      "group": "build"
+    },
+    {
+      "label": "Build & Run Fortran",
+      "type": "shell",
+      "command": "${fileDirname}/exes/${fileBasenameNoExtension}",
+      "options": {
+        "cwd": "${fileDirname}"
+      },
+      "dependsOn": [
+        "Build Fortran"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "Build Fortran",
+      "type": "shell",
+      "command": "gfortran",
+      "options": {
+        "cwd": "${fileDirname}"
+      },
+      "args": [
+        "${fileDirname}/${fileBasename}",
+        "-o",
+        "${fileDirname}/exes/${fileBasenameNoExtension}"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "Create Plot",
+      "type": "shell",
+      "command": "gnuplot",
+      "options": {
+        "cwd": "${fileDirname}"
+      },
+      "args": [
+        "${fileDirname}/${fileBasename}"
+      ],
+      "problemMatcher": []
     }
   ]
 }
