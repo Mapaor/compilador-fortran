@@ -124,13 +124,15 @@ Molt bé, si ara desplegues el "Task Runner" veuràs que hi ha quatre tasques di
 <img src="https://github.com/user-attachments/assets/163d8447-c319-41f2-a109-618ddec6fccd" width="300">
 
 
-Aquestes tal com el seu nom indica, permeten compilar i executar fortran i gnuplot, i també generar les carpetes 'data', 'exes' i 'out' automàticament. 
+Aquestes tal com el seu nom indica, permeten compilar i executar fortran, sols compilara fortran, executar gnuplot, i també generar les carpetes 'data', 'exes' i 'out' automàticament. 
 
 Nota: Si voleu treballar sense aquest *workflow* de carpetes, sentiu-vos lliures de canviar el codi de `tasks.json` pel que més us agradi.
 
-D'aquesta manera un pot programmar molt més ràpidament sense haver d'estar escrivint a la terminal constantment.
-### Opcional: Dreceres de teclat per compilar directament
-Les dreceres de teclat, així com el color de tema i d'altres, són personalitzacions de l'usuari (no es poden configurar en el repositori de GitHub). Ara aprendrem com configurar-les per tal de poder compilar sense haver d'utilitzar cap commandament. 
+D'aquesta manera un/a pot programmar molt més ràpidament sense haver d'estar escrivint a la terminal constantment.
+### Opcional: Utilitzar una drecera de teclat per compilar
+Si voleu, també es pot configurar que prement <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> es compili i executi directament el fitxer que teniu obert (ja sigui Fortran o Gnuplot).
+
+Les dreceres de teclat, així com el color de tema i d'altres, són personalitzacions de l'usuari (no es poden configurar en el repositori de GitHub), així que ara explicarem com poder configurar-les manualment.
 
 Primer caldrà que accediu al fitxer `keybindigs.json`. Per a fer-ho aneu a les tres barres a sobre de l'icona de l'explorador, a continuació 'Fitxer', 'Preferències', i cliqueu l'opció 'Keyboard Shortcuts'. Se us obrirà un fitxer amb totes les dreceres de teclat.
 
@@ -141,7 +143,7 @@ Primer caldrà que accediu al fitxer `keybindigs.json`. Per a fer-ho aneu a les 
 
 </details>
 
-Ara cliqueu al botó de la part superior dreta de la finestra principal, que serveix per canviar entre visualització i codi font (per exemple també serveix per canviar entre el codi d'un fitxer markdown i la seva correcta visualització) 
+Ara cliqueu al botó de la part superior dreta de la finestra principal que serveix per canviar entre visualització i codi font (per exemple també serveix per canviar entre el codi d'un fitxer markdown i la seva correcta visualització). 
 
 <img width="184" alt="canvi-souruce" src="https://github.com/user-attachments/assets/5ea89499-e257-4542-b03c-8999db6b4208">
 
@@ -150,7 +152,7 @@ Se us obrirà el fitxer `keybindigs.json`, borreu el que sigui que hi hagi i pos
 <details><summary>Codi</summary>
   
 ```
-// Si vols també pots modificar aquestes dreceres canviant la 'key'.
+// Si vols pots modificar aquestes dreceres canviant la 'key'.
 [
   {
     "key": "Ctrl+Shift+B",
@@ -179,7 +181,7 @@ Se us obrirà el fitxer `keybindigs.json`, borreu el que sigui que hi hagi i pos
 <details><summary>Codi</summary>
   
 ```
-// Si vols també pots modificar aquestes dreceres canviant la 'key'.
+// Si vols pots modificar aquestes dreceres canviant la 'key'.
 [
   {
     "key": "Cmd+Shift+B",
@@ -204,29 +206,33 @@ Se us obrirà el fitxer `keybindigs.json`, borreu el que sigui que hi hagi i pos
 
 </details>
 
-Ara hauríeu de poder executar el fitxer que teniu obert (ja sigui de Fortran o de Gnuplot) mitjançant la drecera de teclat <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> per Windows i Linux, i <kbd>&#8984;</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> per Mac. I per tal de generar les carpetes 'data', 'exes' i 'out' automàticament podeu fer servir <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd> (o <kbd>&#8984;</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd>). Nota mnemotècnica: Per la drecera utilitzem 'B' de 'Build'.
-
-## Informació rellevant
-Ús del Codespace i límits del pla gratuït, com aturar, reanudar i suprimir un *codespace*. Bla bla.
-## Com guardar els canvis a GitHub
-Bla bla
-## Com guardar els fitxers localment
-Bla bla
-## Extra: TIPS pel VSCode
+Ara hauríeu de poder executar el fitxer que teniu obert (ja sigui de Fortran o de Gnuplot) mitjançant la drecera de teclat <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> per Windows i Linux, i <kbd>&#8984;</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> per Mac. I també generar les carpetes 'data', 'exes' i 'out' automàticament fent servir <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd> (o <kbd>&#8984;</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd>). Nota mnemotècnica: Per la drecera utilitzem 'B' de 'Build'.
+## Opcional: Personalitzar el VS Code
+Ara aquest projecte és teu, en el sentit que els canvis que faci es guardaran en el teu *codespace* i ningú més els veurà. Si vols pots modificar el que vulguis dels fitxers de configuració, així com personalitzar l'entorn de treball. A continuació algunes coses típiques que potser voleu personalitzar.
 ### Canviar el tema
 Pots canviar el tema clicant l'icona de "Settings" després a "Temes" i "Tema de Color". Tria el que més t'agradi.
 ### Afegir altres extensions 
 Pots afegir les extensions que consideris. Per a fer-ho busca-les, instal·la-les i comprova que realitzen la funció que vols.
 
-Nota: Si no suprimíssis mai el *codespace* en el que estàs treballant podries fer servir sempre aquesta extensió. Tot i així per si de cas volguéssis un dia reiniciar des de zero el *codespace*, és millor que l'acabis d'instal·lar bé. Segueix els següents passos:
+Nota: Si no suprimíssis mai el *codespace* en el que estàs treballant podries fer servir sempre aquesta extensió. Tot i així per si de cas un dia el volguéssis reiniciar des de zero, és millor que l'acabis d'instal·lar bé. Segueix els següents passos:
 1. Busca-la al [VS Code Marketplace](https://marketplace.visualstudio.com/vscode)
 2. Un cop dins la pàgina de l'extensió fixa't en la URL. Copia el que ve després de "Name=Url", per exemple pel Modern Fortran seria `fortran-lang.linter-gfortran`.
-3. Afegeix l'extensió al fitxer `devcontainer.json` (que es troba dins de la carpeta `.devcontainer`) en la part de `extensions` en una nova línia al final de tot.
+3. Afegeix l'extensió al fitxer `devcontainer.json` (que es troba dins de la carpeta `.devcontainer`). L'has d'afegir dins la part de `extensions` en una nova línia.
   
-   Nota: No oblidis deixar-te la coma al final de la línia anterior per tal que el JSON tingui el format correcte!
-## Extra: Com funciona a nivell tècnic
-### Què hi ha en la carpeta .devcontainer?
+   Nota: Vigila no et deixis la coma al final de la línia anterior per tal que el JSON tingui el format correcte!
+## Informació rellevant
+### Límits del pla gratuït.
+Ús del Codespace i límits del pla gratuït, com aturar, reanudar i suprimir un *codespace*. Bla bla.
+### Com aturar, reanudar, reconstruir i suprimir un *codespace*
+Bla bla
+### Com guardar els canvis a GitHub
+Bla bla
+### Com guardar els fitxers localment
+Bla bla
+
+### Com funciona a nivell tècnic aquest repositori
+#### Què hi ha en la carpeta .devcontainer?
 En la carpeta `.devcontainer` es troba la configuració del *codespace* que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
 Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i així podem anar programant de mentrestant.
-### Què hi ha en la carpeta .vscode?
-En la carpeta `.vscode`  hi ha per una banda dins de `settings.json` alguns ajustaments del editor de text per tal d'evitar notificacions molestes innecessàries. I dins de `tasks.json` i `keybindings.json` la configuració per tal de poder compilar i executar fortran i gnuplot sense haver d'escriure-ho a la terminal.
+#### Què hi ha en la carpeta .vscode?
+En la carpeta `.vscode`  hi ha per una banda dins de `settings.json` alguns ajustaments del editor de text per tal d'evitar notificacions molestes innecessàries. I dins de `tasks.json` la configuració per tal de poder compilar i executar fortran i gnuplot sense haver d'escriure a la terminal.
