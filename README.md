@@ -112,7 +112,7 @@ Si heu arribat fins aquí, tot funciona correctament. Ara sempre que torneu a en
 
 A continuació explicarem com compilar clicant simplement un botó, i com personalitzar l'entorn del VS Code per tal que sigui més agradable al treballar.
 ### Compilar a partir del Task Runner
-Si et fixes dins de l'Explorador hi tens les teves carpetes i arxius, però també hi tens uns desplegable a la part inferior. Aquests s'anomenen "Contorn" (o "Outline"), "Línia temporal" (o "Timeline") i "Task Runner".
+Si et fixes dins de l'Explorador hi tens les teves carpetes i arxius, però també hi tens uns desplegables a la part inferior. Aquests s'anomenen "Contorn" (o "Outline"), "Línia temporal" (o "Timeline") i "Task Runner".
 
 Sols ens interessa el "Task Runner" així que si vols pots desactivar la visibilitat dels altres clicant botó dret dins l'Explorador i després seleccionant-los.
 
