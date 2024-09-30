@@ -1,14 +1,8 @@
 {
     "fortran.fortls.disabled": true,
-    "update.showReleaseNotes": false,
-    "extensions.preferPreReleases": false,
     "extensions.ignoreRecommendations": true,
-    "extensions.autoUpdate": false,
-    "extensions.autoCheckUpdates": false,
     "workbench.editorAssociations": {   
         "*.md": "vscode.markdown.preview.editor",
     },
-    "tasks.defaultOutput": "none",
-    "timeline.showView": false,
-    "outline.showView": false
+    "outline.collapseItems": "alwaysCollapse"
 }
