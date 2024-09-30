@@ -124,13 +124,15 @@ Molt bé, si ara desplegues el "Task Runner" veuràs que hi ha quatre tasques di
 <img src="https://github.com/user-attachments/assets/163d8447-c319-41f2-a109-618ddec6fccd" width="300">
 
 
-Aquestes tal com el seu nom indica, permeten compilar i executar fortran, sols compilara fortran, executar gnuplot, i també generar les carpetes 'data', 'exes' i 'out' automàticament. 
+Aquestes tal com el seu nom indica, permeten o compilar i executar fortran, o sols compilar, o executar gnuplot, o generar les carpetes 'data', 'exes' i 'out' automàticament. 
 
 Nota: Si voleu treballar sense aquest *workflow* de carpetes, sentiu-vos lliures de canviar el codi de `tasks.json` pel que més us agradi.
 
 D'aquesta manera un/a pot programmar molt més ràpidament sense haver d'estar escrivint a la terminal constantment.
-### Opcional: Utilitzar una drecera de teclat per compilar
-Si voleu, també es pot configurar que prement <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> es compili i executi directament el fitxer que teniu obert (ja sigui Fortran o Gnuplot).
+## Opcional: Personalitzar el VS Code
+Ara aquest projecte és teu, en el sentit que els canvis que facis es guardaran en el teu *codespace* i ningú més els veurà. Si vols pots personalitzar com vulguis l'entorn de treball (i evidentment també pots modificar tots els fitxers que vulguis). A continuació algunes coses típiques que potser voldríeu personalitzar.
+### Utilitzar una drecera de teclat per compilar
+Si voleu, també es pot configurar que prement <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> es compili i executi directament el fitxer que teniu obert (ja sigui Fortran o Gnuplot), i que amb <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd> es generin les carpetes (si és que no existeixen ja).
 
 Les dreceres de teclat, així com el color de tema i d'altres, són personalitzacions de l'usuari (no es poden configurar en el repositori de GitHub), així que ara explicarem com poder configurar-les manualment.
 
@@ -207,29 +209,29 @@ Se us obrirà el fitxer `keybindigs.json`, borreu el que sigui que hi hagi i pos
 </details>
 
 Ara hauríeu de poder executar el fitxer que teniu obert (ja sigui de Fortran o de Gnuplot) mitjançant la drecera de teclat <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> per Windows i Linux, i <kbd>&#8984;</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> per Mac. I també generar les carpetes 'data', 'exes' i 'out' automàticament fent servir <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd> (o <kbd>&#8984;</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd>). Nota mnemotècnica: Per la drecera utilitzem 'B' de 'Build'.
-## Opcional: Personalitzar el VS Code
-Ara aquest projecte és teu, en el sentit que els canvis que faci es guardaran en el teu *codespace* i ningú més els veurà. Si vols pots modificar el que vulguis dels fitxers de configuració, així com personalitzar l'entorn de treball. A continuació algunes coses típiques que potser voleu personalitzar.
+
+Podeu canviar aquestes dreceres per unes altres, simplement heu de canviar la `key` del `keybindings.json`.
 ### Canviar el tema
 Pots canviar el tema clicant l'icona de "Settings" després a "Temes" i "Tema de Color". Tria el que més t'agradi.
 ### Afegir altres extensions 
-Pots afegir les extensions que consideris. Per a fer-ho busca-les, instal·la-les i comprova que realitzen la funció que vols.
+Pots afegir les extensions que consideris. Per a fer-ho busca-les en la pestanya lateral "Extensions" (<kbd>Ctrl</kbd>+<kbd>Majús</kbd>+<kbd>X</kbd>), instal·la-les i comprova que realitzen la funció que vols.
 
-Nota: Si no suprimíssis mai el *codespace* en el que estàs treballant podries fer servir sempre aquesta extensió. Tot i així per si de cas un dia el volguéssis reiniciar des de zero, és millor que l'acabis d'instal·lar bé. Segueix els següents passos:
-1. Busca-la al [VS Code Marketplace](https://marketplace.visualstudio.com/vscode)
+Nota: Si no suprimíssis mai el *codespace* en el que estàs treballant podries fer servir sempre aquestes noves extensions. Tot i així per si de cas un dia el volguéssis reiniciar des de zero, és millor que les acabis d'instal·lar bé. Segueix els següents passos:
+1. Busca l'extensió que vols afegir al [VS Code Marketplace](https://marketplace.visualstudio.com/vscode)
 2. Un cop dins la pàgina de l'extensió fixa't en la URL. Copia el que ve després de "Name=Url", per exemple pel Modern Fortran seria `fortran-lang.linter-gfortran`.
 3. Afegeix l'extensió al fitxer `devcontainer.json` (que es troba dins de la carpeta `.devcontainer`). L'has d'afegir dins la part de `extensions` en una nova línia.
   
    Nota: Vigila no et deixis la coma al final de la línia anterior per tal que el JSON tingui el format correcte!
-## Informació rellevant
-### Límits del pla gratuït.
-Ús del Codespace i límits del pla gratuït, com aturar, reanudar i suprimir un *codespace*. Bla bla.
-### Com aturar, reanudar, reconstruir i suprimir un *codespace*
-Bla bla
+## Guardar els canvis
 ### Com guardar els canvis a GitHub
 Bla bla
 ### Com guardar els fitxers localment
 Bla bla
-
+## Altra informació rellevant
+### Límits del pla gratuït.
+Ús del Codespace i límits del pla gratuït, com aturar, reanudar i suprimir un *codespace*. Bla bla.
+### Com aturar, reanudar, reconstruir i suprimir un *codespace*
+Bla bla
 ### Com funciona a nivell tècnic aquest repositori
 #### Què hi ha en la carpeta .devcontainer?
 En la carpeta `.devcontainer` es troba la configuració del *codespace* que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer i Material Icon Theme de manera automàtica.
