@@ -108,11 +108,18 @@ A dins de la carpeta `/out` s'hauria d'haver creat un fitxer `grafic.png`, si el
 ![fig1](https://github.com/user-attachments/assets/70fda62b-5cc7-4103-8024-c661c6a17d7d)
 
 
-Si hem arribat fins aquí ja estaria, tot funciona correctament. Ara sempre que torneu a entrar en el vostre *codespace* ja hi haurà gnuplot instal·lat, i els canvis que aneu fent (tan d'arxius com de configuració/personalització) també s'aniran guardant automàticament.
+Si heu arribat fins aquí, tot funciona correctament. Ara sempre que torneu a entrar en el vostre *codespace* ja hi haurà gnuplot instal·lat, i els canvis que aneu fent (tan d'arxius com de configuració/personalització) també s'aniran guardant automàticament.
 
-A continuació explicarem una última cosa, com compilar un arxiu fortran o gnuplot sense haver d'escriure els mateixos comandaments una vegada i una altra en la terminal.
+A continuació explicarem com compilar clicant simplement un botó, i com personalitzar l'entorn del VS Code per tal que sigui més agradable al treballar.
 ### Compilar a partir del Task Runner
-Si et fixes dins de l'Explorador hi tens les teves carpetes i arxius, però també hi tens un desplegable a la part inferior anomenat "Task Runner". Si el desplegues veuràs que hi ha les quatre tasques configurades en el fitxer `tasks.json` (dins de `.vscode`). 
+Si et fixes dins de l'Explorador hi tens les teves carpetes i arxius, però també hi tens uns desplegable a la part inferior. Aquests s'anomenen "Contorn" (o "Outline"), "Línia temporal" (o "Timeline") i "Task Runner".
+
+Sols ens interessa el "Task Runner" així que si vols pots desactivar la visibilitat dels altres clicant botó dret dins l'Explorador i després seleccionant-los.
+
+<img width="329" alt="contorn" src="https://github.com/user-attachments/assets/c2c26ab4-1ddd-458d-9ed0-4c8aca1d0302">
+
+
+Molt bé, si ara desplegues el "Task Runner" veuràs que hi ha quatre tasques diferents.
 
 <img src="https://github.com/user-attachments/assets/163d8447-c319-41f2-a109-618ddec6fccd" width="300">
 
