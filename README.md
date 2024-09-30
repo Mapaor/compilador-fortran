@@ -103,7 +103,7 @@ Quan acabi ja podem comprovar que funciona compilant el programa "fig1.gnu". Si 
 gnuplot fig1.gnu
 ```
 
-A dins de la carpeta `/out` s'hauria d'haver creat un fitxer `fig1.png`, si el cliquem hauríem de veure una imatge com la següent:
+A dins de la carpeta `/out` s'hauria d'haver creat un fitxer `grafic.png`, si el cliquem hauríem de veure una imatge com la següent:
 
 ![fig1](https://github.com/user-attachments/assets/70fda62b-5cc7-4103-8024-c661c6a17d7d)
 
