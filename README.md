@@ -126,7 +126,7 @@ Molt bé, si ara desplegues el "Task Runner" veuràs que hi ha quatre tasques di
 
 Aquestes tal com el seu nom indica, permeten o compilar i executar fortran, o sols compilar, o executar gnuplot, o generar les carpetes 'data', 'exes' i 'out' automàticament. 
 
-Nota: Si voleu treballar sense aquest *workflow* de carpetes, sentiu-vos lliures de canviar el codi de `tasks.json` pel que més us agradi.
+Nota: Si voleu treballar sense aquest *workflow* de carpetes 'data', 'exes' i 'out', sentiu-vos lliures de canviar el codi de `tasks.json` pel que més us agradi.
 
 D'aquesta manera un/a pot programmar molt més ràpidament sense haver d'estar escrivint a la terminal constantment.
 ## Opcional: Personalitzar el VS Code
