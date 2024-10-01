@@ -50,8 +50,8 @@ Ara simplement crea un nou *codespace* a partir del teu repositori.
 Per a fer-ho obre el desplegable verd "Code" del repositori i en la pestanya "Codespaces" clica el botó verd "Create codespace on main".
 <details>
 <summary>Imatge d'exemple</summary>
-
-<img width="350" alt="Create codespace on main" src="https://github.com/user-attachments/assets/3eaabbe2-4327-42aa-86e7-2214fb05cecb">
+  
+<img width="350" alt="Create codespace on main" src="https://github.com/user-attachments/assets/d1248585-980a-4a91-ab3b-7539f76a7f42">
 
 </details>
 
