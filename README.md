@@ -1,7 +1,7 @@
-## Benvingut/da a aquesta guia!
+## Hola! Això és una guia per aprendre a compilar fortran i gnuplot *online*
 Si ja estàs dins del *codespace*, segueix llegint [aquí](#qu%C3%A8-fer-un-cop-dins-del-codespace).
 ## Què és el que volem aconseguir?
-El que nosaltres volem és tenir un entorn on poder **compilar Fortran i Gnuplot de manera _online_** sense haver d'instal·lar ni configurar res. El mètode que seguirem ens permetrà tenir un link permanent en el qual tenim els nostres fitxers ordenats per carpetes, podem visualitzar PDFs, fitxers de dades, imatges, etc.
+El que nosaltres volem és tenir un entorn on poder **compilar Fortran i Gnuplot sense haver d'instal·lar ni configurar res**. El mètode que seguirem ens permetrà tenir un link permanent en el qual tenim els nostres fitxers ordenats per carpetes, podem visualitzar PDFs, fitxers de dades, imatges, etc.
 
 Bàsicament tenir una **versió idèntica del Visual Studio Code** per la web que ens permeti programmar sense masses complicacions encara que no estiguem estem davant del nostre ordinador habitual.
 
