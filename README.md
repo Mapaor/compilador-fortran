@@ -9,7 +9,7 @@ Bàsicament tenir una **versió idèntica del Visual Studio Code** per la web qu
 
 Aquest mètode també pot servir a mode de *back-up* per si un dia no us funcionés l'ordinador o tinguéssiu un problema tècnic. D'aquesta manera simplement accedint al vostre repositori de GitHub accediríeu amb un sol click als vostres programes i subrutines. Amb el *plus* de poder-les editar, executar i també guardar (tan al repositori de GitHub com de manera local).
 
-#### Si voleu podeu seguir el següent vídeo tutorial
+#### Vídeo tutorial
 Per si de cas us perdeu seguint aquesta guia, aquí teniu un petit vídeo d'exemple en què es mostren els diferents passos seguir.
 <details>
   <summary>Vídeo tutorial d'exemple</summary>
