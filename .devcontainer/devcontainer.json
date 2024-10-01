@@ -9,7 +9,8 @@
                 "mammothb.gnuplot",               // Gnuplot (by mammothb)
                 "pkief.material-icon-theme",       // Material Icon Theme (by Philipp Kief)
                 "bierner.markdown-preview-github-styles",  // Markdown com un README de GitHub
-                "SanaAjani.taskrunnercode"   // Task Runner (by Sana Ajani)
+                "SanaAjani.taskrunnercode",   // Task Runner (by Sana Ajani)
+                "sndst00m.vscode-native-svg-preview" // SVG Preview
             ]
         }
     },
