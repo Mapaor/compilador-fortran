@@ -37,7 +37,9 @@ Si vols li dones un nom diferent o si vols deixes el nom per defecte. Després l
 
 <details>
   <summary>Imatge d'exemple</summary>
-  <img width="571" alt="Screenshot 2024-09-28 at 23-28-54 Fork Mapaor_compilador-fortran" src="https://github.com/user-attachments/assets/255c396c-483b-4224-8591-98c7cb50c671">
+
+  <img width="571" alt="Exemple de com clonar un repositori." src="https://github.com/user-attachments/assets/87605244-64ef-4616-879a-e78dc342b091">
+  
 </details>
 
 Tardarà uns segons i de seguida tindràs un nou repositori en el teu perfil. Ara mira't aquest README des del TEU repositori.
