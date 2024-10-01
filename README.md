@@ -207,7 +207,7 @@ Se us obrirà el fitxer `keybindigs.json`, borreu el que sigui que hi hagi i pos
 
 </details>
 
-Ara hauríeu de poder executar el fitxer que teniu obert (ja sigui de Fortran o de Gnuplot) mitjançant la drecera de teclat <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> per Windows i Linux, i <kbd>&#8984;</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> per Mac. I també generar les carpetes 'data', 'exes' i 'out' automàticament fent servir <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd> (o <kbd>&#8984;</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd>). Nota mnemotècnica: Per la drecera utilitzem 'B' de 'Build'.
+Ara hauríeu de poder executar el fitxer que teniu obert (ja sigui de Fortran o de Gnuplot) mitjançant la drecera de teclat <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> per Windows i Linux, i <kbd>&#8984;</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> per Mac. I també generar les carpetes 'data', 'exes' i 'out' automàticament fent servir <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd> per Windows i Linuxs, i <kbd>&#8984;</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd>) per Mac. Nota mnemotècnica: Per la drecera utilitzem 'B' de 'Build'.
 
 Si voleu podeu canviar aquestes dreceres per unes altres, simplement heu de canviar la `key` del `keybindings.json`.
 ### Canviar el tema
