@@ -140,8 +140,7 @@ Primer caldrà que accediu al fitxer `keybindigs.json`. Per a fer-ho aneu a les 
 
 <details><summary>Imatge d'ajuda</summary>
 
-![imatge](https://github.com/user-attachments/assets/038ad73d-a7b6-40ad-ab0a-83d5e56e6f00)
-
+<img width="500" alt="Obrir els Keyboard Shortcuts" src="https://github.com/user-attachments/assets/038ad73d-a7b6-40ad-ab0a-83d5e56e6f00">
 
 </details>
 
