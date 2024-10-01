@@ -134,7 +134,7 @@ Ara aquest projecte és teu, en el sentit que els canvis que facis es guardaran 
 ### Utilitzar una drecera de teclat per compilar
 Si voleu, també es pot configurar que prement <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> es compili i executi directament el fitxer que teniu obert (ja sigui Fortran o Gnuplot), i que amb <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd> es generin les carpetes (si és que no existeixen ja).
 
-Les dreceres de teclat, així com el color de tema i d'altres, són personalitzacions de l'usuari (no es poden configurar en el repositori de GitHub), així que ara explicarem com poder configurar-les manualment.
+Les dreceres de teclat, així com el color de tema i d'altres, són personalitzacions de l'usuari (no es poden configurar en el repositori de GitHub), així que ara explicarem com configurar-les manualment.
 
 Primer caldrà que accediu al fitxer `keybindigs.json`. Per a fer-ho aneu a les tres barres a sobre de l'icona de l'explorador, a continuació 'Fitxer', 'Preferències', i cliqueu l'opció 'Keyboard Shortcuts'. Se us obrirà un fitxer amb totes les dreceres de teclat.
 
