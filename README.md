@@ -13,11 +13,9 @@ Aquest mètode també pot servir a mode de *back-up* per si un dia no us funcion
 Per si de cas us perdeu seguint aquesta guia, aquí teniu un petit vídeo amb els diferents passos seguir.
 <details>
   <summary>Vídeo tutorial d'exemple</summary>
-  
 
-https://github.com/user-attachments/assets/8b3e09ae-d44b-4f6f-958c-14e8d71a3cb1
+https://github.com/user-attachments/assets/fdad9ae8-e5eb-4dd6-940e-cf516c519d3e
 
-  
 </details>
 
 ## Procés per entrar en el *codespace* (és molt ràpid!)
