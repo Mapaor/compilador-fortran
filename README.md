@@ -146,7 +146,7 @@ Primer caldrà que accediu al fitxer `keybindigs.json`. Per a fer-ho aneu a les 
 
 Ara cliqueu al botó de la part superior dreta de la finestra principal que serveix per canviar entre visualització i codi font (per exemple també serveix per canviar entre el codi d'un fitxer markdown i la seva correcta visualització). 
 
-<img width="184" alt="canvi-souruce" src="https://github.com/user-attachments/assets/5ea89499-e257-4542-b03c-8999db6b4208">
+<img width="150" alt="canvi-souruce" src="https://github.com/user-attachments/assets/5ea89499-e257-4542-b03c-8999db6b4208">
 
 Se us obrirà el fitxer `keybindigs.json`, borreu el que sigui que hi hagi i poseu-hi el següent codi en funció del vostre sistema operatiu:
 #### Per a Windows o Linux
