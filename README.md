@@ -5,14 +5,12 @@ El que nosaltres volem és tenir un entorn on poder **compilar Fortran i Gnuplot
 
 Bàsicament tenir una **versió idèntica del Visual Studio Code** per la web que ens permeti programmar sense masses complicacions encara que no estiguem estem davant del nostre ordinador habitual.
 
-<img src="https://github.com/user-attachments/assets/5e3a304c-d142-4a35-8fe5-c459b5520b4a" alt="Demo" width="800">
-
 Aquest mètode també pot servir a mode de *back-up* per si un dia no us funcionés l'ordinador o tinguéssiu un problema tècnic. D'aquesta manera simplement accedint al vostre repositori de GitHub accediríeu amb un sol click als vostres programes i subrutines. Amb el *plus* de poder-les editar, executar i també guardar (tan al repositori de GitHub com de manera local).
 
 ### Exemple
 Aquí pots veure com amb un sol click un/a entra dins l'entorn de treball (*codespace*) i des d'allà pot compilar Fortran i Gnuplot simplement clicant un botó.
 
-*gravar pantalla directament amb GIF*
+<img src="https://github.com/user-attachments/assets/5e3a304c-d142-4a35-8fe5-c459b5520b4a" alt="Demo" width="800">
 
 I aquí tens un video tutorial d'exemple per si et perds seguint aquesta guia. 
 <details>
