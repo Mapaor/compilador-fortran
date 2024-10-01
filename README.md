@@ -47,7 +47,7 @@ Tardarà uns segons i de seguida tindràs un nou repositori en el teu perfil. Ar
 ### 3. Genera el *codespace*
 Ara simplement crea un nou *codespace* a partir del teu repositori. 
 
-Per a fer-ho obre el desplegable verd "Code" del repositori i en la pestanya "Codespaces" clica el botó que és un '+'.
+Per a fer-ho obre el desplegable verd "Code" del repositori i en la pestanya "Codespaces" clica el botó "Create codespace on main".
 <details>
 <summary>Imatge d'exemple</summary>
   <img width="349" alt="new_code_space" src="https://github.com/user-attachments/assets/737c9403-63fe-4c9a-86bf-1b472c894501">
