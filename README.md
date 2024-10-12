@@ -270,8 +270,7 @@ Borra el codi que hi hagi i enganxa-hi el següent:
     "material-icon-theme.folders.color": "#e0c810" // Groc (Color carpeta normal)
 }
 ```
-Guarda el fitxer (Ctrl+S) i ja estaria, hauries de veure el canvi en icones.
-  sd
+Guarda el fitxer (Ctrl+S) i ja estaria, hauries de veure el canvi d'icones.
 </details>
 
 ### Afegir altres extensions 
