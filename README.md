@@ -215,7 +215,7 @@ Pots canviar el tema clicant l'icona de "Settings" després a "Temes" i "Tema de
 ### Canviar les icones
 Es poden canviar les icones de fitxers i carpetes de l'extensio 'Material Icon Theme'. El canvi que nosaltres farem és el següent
 
-![imatge(4)](https://github.com/user-attachments/assets/8a627d24-aea6-44a9-a5f1-bc794295e06b)
+<img width="550" src="https://github.com/user-attachments/assets/8a627d24-aea6-44a9-a5f1-bc794295e06b">
 
 Si vols fer aquesta personalització (o una altra similar) segueix les instruccions del desplegable.
 <details>
