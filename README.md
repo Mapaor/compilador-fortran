@@ -212,8 +212,70 @@ Ara hauríeu de poder executar el fitxer que teniu obert (ja sigui de Fortran o 
 Si voleu podeu canviar aquestes dreceres per unes altres, simplement heu de canviar la `key` del `keybindings.json`.
 ### Canviar el tema
 Pots canviar el tema clicant l'icona de "Settings" després a "Temes" i "Tema de Color". Tria el que més t'agradi.
+### Canviar les icones
+Es poden canviar les icones de fitxers i carpetes de l'extensio 'Material Icon Theme'. El canvi que nosaltres farem és el següent
+
+![imatge(4)](https://github.com/user-attachments/assets/8a627d24-aea6-44a9-a5f1-bc794295e06b)
+
+Si vols fer aquesta personalització (o una altra similar) segueix les instruccions del desplegable.
+<details>
+  <sumarry>Com canviar les icones de fitxers i carpetes</sumarry>
+  Primer busquem de nou l'extensió i obrim la seva configuració ('Configuració de  l'Extensió').
+
+  ![imatge(5)](https://github.com/user-attachments/assets/bb196927-7dac-4801-bbcb-65e39faa6e4a)
+
+  A continuació fixa't en l’opció ‘Custom Clones’ i clica ‘Edit in settings.json’. S'obrira un fitxer json que conté els ajustaments d’usuari (la personalització gràfica del vostre vscode).
+
+![imatge(6)](https://github.com/user-attachments/assets/7031d79f-2a67-4ffd-80b1-9fb5ebfff1dd)
+
+Borra el codi que hi hagi i enganxa-hi el següent:
+```
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.folders.customClones": [
+    {
+        "name": "dades-carpeta",
+        "base": "folder-content", // opció alternativa: "folder-database"
+        "color": "#009688", // Blau per 'data'
+        "folderNames": ["data"]
+    },
+    {
+        "name": "exes-carpeta",
+        "base": "folder-config", // opció alternativa: "folder-command"
+        "color": "#360900", // Vermell fosc per 'exes'
+        "folderNames": ["exes"]
+    },
+    {
+        "name": "out-carpeta",
+        "base": "folder-environment", // opció alternativa: "folder-images"
+        "color": "#2bb302", // Verd per 'out'
+        "folderNames": ["out"]
+    }
+    ],
+    "material-icon-theme.files.customClones": [
+    {
+        "name": "imatge-png",
+        "base": "image",
+        "color": "#42ab22", // Verd per les imatges
+        "fileExtensions": ["png","jpg","jpeg","plt","gif","ico"]
+    },
+    {
+        "name": "fitxer-gnuplot",
+        "base": "gleam", // Altres opcions: 'fastlane', 'deepsource', 'sas', 'graphql',
+        // 'cmake', 'matlab', 'svg', 'julia', 'nuxt', 'gleam', 'prisma', 'proto'
+        "color": "#b00cc2", // Rosa-púrpura
+        "fileExtensions": ["gnu"]
+    }
+    ],
+    "material-icon-theme.folders.color": "#e0c810" // Groc (Color carpeta normal)
+}
+```
+Guarda el fitxer (Ctrl+S) i ja estaria, hauries de veure el canvi en icones.
+  sd
+</details>
+
 ### Afegir altres extensions 
-Pots afegir les extensions que consideris. Per a fer-ho busca-les en la pestanya lateral "Extensions" (<kbd>Ctrl</kbd>+<kbd>Majús</kbd>+<kbd>X</kbd>), instal·la-les i comprova que realitzen la funció que vols.
+També pots afegir les extensions que consideris. Per a fer-ho busca-les en la pestanya lateral "Extensions" (<kbd>Ctrl</kbd>+<kbd>Majús</kbd>+<kbd>X</kbd>), instal·la-les i comprova que realitzen la funció que vols.
 
 Nota: Si no suprimíssis mai el *codespace* en el que estàs treballant podries fer servir sempre aquestes noves extensions. Tot i així per si de cas un dia el volguéssis reiniciar des de zero, és millor que les acabis d'instal·lar bé. Segueix els següents passos:
 1. Busca l'extensió que vols afegir al [VS Code Marketplace](https://marketplace.visualstudio.com/vscode)
