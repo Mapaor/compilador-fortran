@@ -215,18 +215,18 @@ Pots canviar el tema clicant l'icona de "Settings" després a "Temes" i "Tema de
 ### Canviar les icones
 Es poden canviar les icones de fitxers i carpetes de l'extensio 'Material Icon Theme'. El canvi que nosaltres farem és el següent
 
-<img width="550" src="https://github.com/user-attachments/assets/8a627d24-aea6-44a9-a5f1-bc794295e06b">
+<img width="600" src="https://github.com/user-attachments/assets/8a627d24-aea6-44a9-a5f1-bc794295e06b">
 
 Si vols fer aquesta personalització (o una altra similar) segueix les instruccions del desplegable.
 <details>
-  <sumarry>Com canviar les icones de fitxers i carpetes</sumarry>
+  <summary>Com canviar les icones de fitxers i carpetes</summary>
   Primer busquem de nou l'extensió i obrim la seva configuració ('Configuració de  l'Extensió').
 
-  ![imatge(5)](https://github.com/user-attachments/assets/bb196927-7dac-4801-bbcb-65e39faa6e4a)
+ <img width="500" src="https://github.com/user-attachments/assets/bb196927-7dac-4801-bbcb-65e39faa6e4a">
 
   A continuació fixa't en l’opció ‘Custom Clones’ i clica ‘Edit in settings.json’. S'obrira un fitxer json que conté els ajustaments d’usuari (la personalització gràfica del vostre vscode).
 
-![imatge(6)](https://github.com/user-attachments/assets/7031d79f-2a67-4ffd-80b1-9fb5ebfff1dd)
+ <img width="500" src="https://github.com/user-attachments/assets/7031d79f-2a67-4ffd-80b1-9fb5ebfff1dd">
 
 Borra el codi que hi hagi i enganxa-hi el següent:
 ```
