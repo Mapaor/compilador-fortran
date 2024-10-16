@@ -289,7 +289,7 @@ Bla bla
 Bla bla
 ## Altra informació rellevant
 ### Límits del pla gratuït.
-Ús del Codespace i límits del pla gratuït, com aturar, reanudar i suprimir un *codespace*. Bla bla.
+Ús del Codespace i límits del pla gratuït. Bla bla.
 ### Com aturar, reanudar, reconstruir i suprimir un *codespace*
 Bla bla
 ### Com funciona a nivell tècnic aquest repositori
