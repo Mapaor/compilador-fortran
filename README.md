@@ -295,6 +295,6 @@ Bla bla
 ### Com funciona a nivell tècnic aquest repositori
 #### Què hi ha en la carpeta .devcontainer?
 En la carpeta `.devcontainer` es troba la configuració del *codespace* que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer, Material Icon Theme i Task Runner de manera automàtica.
-Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i així podem anar programant de mentrestant.
+Després manualment instal·lem el Gnuplot, que tarda bastant més (2-5min) i així podem anar programant mentrestant.
 #### Què hi ha en la carpeta .vscode?
 En la carpeta `.vscode`  hi ha per una banda dins de `settings.json` alguns ajustaments del editor de text per tal d'evitar notificacions molestes innecessàries. I dins de `tasks.json` la configuració per tal de poder compilar i executar fortran i gnuplot sense haver d'escriure a la terminal.
