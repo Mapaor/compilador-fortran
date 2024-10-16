@@ -114,7 +114,7 @@ A continuació explicarem com compilar clicant simplement un botó, i com person
 ### Compilar a partir del Task Runner
 Si et fixes dins de l'Explorador hi tens les teves carpetes i arxius, però també hi tens uns desplegables a la part inferior. Aquests s'anomenen "Contorn" (o "Outline"), "Línia temporal" (o "Timeline") i "Task Runner".
 
-Sols ens interessa el "Task Runner" així que si vols pots desactivar la visibilitat dels altres dos (clicant botó dret dins l'Explorador i després seleccionant-los).
+Sols ens interessa el "Task Runner" així que si vols pots desactivar la visibilitat dels altres dos (clicant botó dret en ells i traient-els-hi el tick).
 
 <img width="329" alt="contorn" src="https://github.com/user-attachments/assets/c2c26ab4-1ddd-458d-9ed0-4c8aca1d0302">
 
