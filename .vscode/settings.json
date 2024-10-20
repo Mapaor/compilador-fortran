@@ -3,6 +3,7 @@
     "extensions.ignoreRecommendations": true,
     "workbench.editorAssociations": {   
         "*.md": "vscode.markdown.preview.editor",
+        "*.svg": "svgPreview.previewEditor"
     },
     "outline.collapseItems": "alwaysCollapse"
 }
