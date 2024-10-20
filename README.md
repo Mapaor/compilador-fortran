@@ -284,9 +284,34 @@ Nota: Si no suprimíssis mai el *codespace* en el que estàs treballant podries 
    Nota: vigila no et deixis la coma al final de la línia anterior per tal que el JSON tingui el format correcte.
 ## Guardar els canvis
 ### Com guardar els canvis a GitHub
+Un cop hagis afegit o suprimit arxius, o modificat codi. Segurament vulguis guardar els canvis (no en el *codespace*, que es fa automàticament) sinó en el teu repositori de GitHub. Per a fer-ho fes el següent:
+1. Bla bla
+   ![Screenshot 2024-10-20 at 17-07-45 prova f90 - jofre-compilador Codespaces orange journey - Visual Studio Code](https://github.com/user-attachments/assets/958c759a-25e3-4253-9509-4b0559b4ca9a)
+
+2. Bla bla
+  ![Screenshot 2024-10-20 at 17-08-42 COMMIT_EDITMSG - jofre-compilador Codespaces orange journey - Visual Studio Code](https://github.com/user-attachments/assets/51b0c1b3-af3e-48a7-be6b-70609a03636f)
+
+   ![sempre](https://github.com/user-attachments/assets/42387e61-1bca-4546-bbaa-8cff0b180264)
+
+3. Bla bla
+  ![Screenshot 2024-10-20 at 17-09-01 prova f90 - jofre-compilador Codespaces orange journey - Visual Studio Code](https://github.com/user-attachments/assets/043367f6-8f34-4019-915e-415583d3b008)
+
+![ok dont show again](https://github.com/user-attachments/assets/1ef50349-e252-4b11-a559-1cbe511e251c)
+
 Bla bla
-### Com guardar els fitxers localment
+
+### Com guardar els fitxers individuals localment
 Bla bla
+![desar-fitxer](https://github.com/user-attachments/assets/addeb77e-4521-4abc-9fb1-0cd7b3c366c4)
+
+Bla bla
+![mostra-local](https://github.com/user-attachments/assets/cb497472-0455-4df8-af16-b803be0bc95c)
+
+
+### Com guardar carpetes senceres localment 
+Bla bla un cop fet el commit
+[https://download-directory.github.io](https://download-directory.github.io)
+
 ## Altra informació rellevant
 ### Límits del pla gratuït.
 Ús del Codespace i límits del pla gratuït. Bla bla.
