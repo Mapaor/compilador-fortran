@@ -5,8 +5,6 @@ El que nosaltres volem és tenir un entorn on poder **compilar Fortran i Gnuplot
 
 Bàsicament tenir una **versió idèntica del Visual Studio Code** per la web que ens permeti programmar sense masses complicacions encara que no estiguem estem davant del nostre ordinador habitual.
 
-![compilant-dark]()
-
 <img src="https://github.com/user-attachments/assets/299c0a48-e8c5-4ca1-b547-4307ac310a0b" alt="Demo" width="800">
 
 Aquest mètode també pot servir a mode de *back-up* per si un dia no us funcionés l'ordinador o tinguéssiu un problema tècnic. D'aquesta manera simplement accedint al vostre repositori de GitHub accediríeu amb un sol click als vostres programes i subrutines. Amb el *plus* de poder-les editar, executar i també guardar (tan al repositori de GitHub com de manera local).
