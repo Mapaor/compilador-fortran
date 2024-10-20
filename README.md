@@ -270,7 +270,7 @@ Borra el codi que hi hagi i enganxa-hi el següent:
     "material-icon-theme.folders.color": "#e0c810" // Groc (Color carpeta normal)
 }
 ```
-Ara guarda el fitxer (Ctrl+S) i reinicia el _codespace_, és a dir tanca la pestanya i torna a obrir-la des del repositori de github. Hauries de veure el canvi en les icones.
+Ara guarda el fitxer (Ctrl+S) i reinicia el _codespace_, és a dir tanca la pestanya i torna a obrir-la des del repositori de GitHub. Hauries de veure el canvi d'icones.
 </details>
 
 ### Afegir altres extensions 
