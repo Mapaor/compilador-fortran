@@ -9,10 +9,10 @@ Bàsicament tenir una **versió idèntica del Visual Studio Code** per la web qu
 
 Aquest mètode també pot servir a mode de *back-up* per si un dia no us funcionés l'ordinador o tinguéssiu un problema tècnic. D'aquesta manera simplement accedint al vostre repositori de GitHub accediríeu amb un sol click als vostres programes i subrutines. Amb el *plus* de poder-les editar, executar i també guardar (tan al repositori de GitHub com de manera local).
 
-#### Vídeo tutorial
+### Vídeo tutorial
 Per si de cas us perdeu seguint aquesta guia, aquí teniu un petit vídeo amb els diferents passos seguir.
 <details>
-  <summary>Vídeo tutorial d'exemple</summary>
+  <summary><b>Vídeo tutorial d'exemple</b></summary>
 
 https://github.com/user-attachments/assets/fdad9ae8-e5eb-4dd6-940e-cf516c519d3e
 
@@ -270,7 +270,7 @@ Borra el codi que hi hagi i enganxa-hi el següent:
     "material-icon-theme.folders.color": "#e0c810" // Groc (Color carpeta normal)
 }
 ```
-Guarda el fitxer (Ctrl+S) i ja estaria, hauries de veure el canvi d'icones.
+Ara guarda el fitxer (Ctrl+S) i reinicia el _codespace_, és a dir tanca la pestanya i torna a obrir-la des del repositori de github. Hauries de veure el canvi en les icones.
 </details>
 
 ### Afegir altres extensions 
