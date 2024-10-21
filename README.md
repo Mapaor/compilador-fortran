@@ -288,7 +288,7 @@ Un cop hagis afegit, suprimit, o modificat arxius, segurament vulguis guardar el
 
 <img width="300" src="https://github.com/user-attachments/assets/958c759a-25e3-4253-9509-4b0559b4ca9a">
 
-Aquest botó el que fa és posar en escena (*stage*) els canvis. Automàticament s'obrirà una finestreta de confirmació en què ens pregunten si volem posar en escena directament tots els canvis (enlloc de sols alguns), li donem a 'Sí' o a 'Sempre' (per tal que no ens torni a sortir).
+Aquest botó el que fa és posar en escena (*stage*) els canvis. Automàticament s'obrirà una finestreta de confirmació en què ens pregunten si volem posar en escena directament tots els canvis (enlloc de sols alguns), li donem a 'Sí' o a 'Sempre' (si no volem que ens torni a sortir).
 
 Analogia: Imaginem que estem fent una mudança, cada objecte del pis seria un canvi, quan posem els objectes en caixes que ens volem endur els estem posant en escena (*stage*). Per exemple potser tenim dos fitxers modificats, però sols volem que s'actualitzi el codi (en el repositori) d'un dels dos, o potser tenim dues caixes de la mudança, però només ens en volem endur una.
 
