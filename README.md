@@ -326,9 +326,18 @@ Un cop hi posem l'URL i premem <kbd>Enter</kbd>, automàticament es descarregar�
 
 ## Altra informació rellevant
 ### Límits del pla gratuït.
-Ús del Codespace i límits del pla gratuït. Bla bla.
+En el pla gratuït normal es disposen de 60h de computació al mes per fer anar els teus *codespaces*. Pel pla de GitHub per estudiants es disposen de 180h. El més probable és que en cap dels dos casos exhauriu les hores de computació, i hauríeu d'estar moltes hores.
+
+Podeu veure les hores de computació que porteu utilitzades aquest mes aquí: [https://github.com/settings/billing/summary](https://github.com/settings/billing/summary).
 ### Com aturar, reanudar, reconstruir i suprimir un *codespace*
-Bla bla
+Per defecte un *codespace* s'atura als 30 minuts d'inactivitat. Si voleu també el podeu parar manualment perquè no vagi gastant (tot i que de nou, no cal), i quan l'obriu de nou sempre es tornarà a activar. 
+
+Quan suprimiu un *codespace*, aquest perd la informació dels canvis que no havíeu sincronitzat encara a GitHub, i quan el torneu a crear s'hauran de tornar a instal·lar extensions i compiladors. Els *codespaces* de per si mai caduquen, són indefinits, tot i així els de GitHub t'envien un correu quan han passat dos mesos d'inactivitat, dien-te que per conservar-lo hi tornis a entrar.
+
+Podeu tenir *codespaces* en repositoris que no són vostres, i fins i tot podeu tenir diversos *codespaces* en un mateix repositori.
+
+Podeu trobar més informació sobre el tema aquí: [GitHub Docs - Understanding the codespace lifecycle](https://docs.github.com/en/codespaces/getting-started/understanding-the-codespace-lifecycle).
+
 ### Com funciona a nivell tècnic aquest repositori
 #### Què hi ha en la carpeta .devcontainer?
 En la carpeta `.devcontainer` es troba la configuració del *codespace* que instal·la el compilador `gfortran` i les extensions Modern Fortran, Gnuplot, PDF Viewer, Material Icon Theme i Task Runner de manera automàtica.
