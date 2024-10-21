@@ -296,18 +296,21 @@ Analogia: Imaginem que estem fent una mudança, cada objecte del pis seria un ca
 
 Si no volguéssim posar en escena tots els canvis, seleccionaríem només els que volguéssim i després li donaríem a confirmar. Un cop apretat el botó blau de "Confirmació" se'ns obrirà un fitxer git i hi haurem d'inserir un missatge a la línia superior sobre quins canvis hem realitzat (en l'analogia de la mudança seria com posar una etiqueta a la caixa, per exemple 'Objectes Lavabo'). El missatge no és important, és per nosaltres i prou, però és per procedir cal posar alguna cosa, la que sigui. 
 
-<img width="550" src="https://github.com/user-attachments/assets/51b0c1b3-af3e-48a7-be6b-70609a03636f">
+<img width="550" alt="missatge commit" src="https://github.com/user-attachments/assets/34d79ddc-a6f8-4f3a-b12b-c7460593b01e">
 
-Un cop escrit el missatge li donem al tick que té el fitxer a dalt a la dreta. I se'ns guardarà:
+Un cop escrit el missatge li donem al tick que té el fitxer a dalt a la dreta, i se'ns guardarà. A la barra lateral ens apereixerà un botó per "Sincronitzar" (fer *commit*) els canvis seleccionats.
 
-  ![Screenshot 2024-10-20 at 17-09-01 prova f90 - jofre-compilador Codespaces orange journey - Visual Studio Code](https://github.com/user-attachments/assets/043367f6-8f34-4019-915e-415583d3b008)
+<img width="350" src="https://github.com/user-attachments/assets/043367f6-8f34-4019-915e-415583d3b008">
 
-![ok dont show again](https://github.com/user-attachments/assets/1ef50349-e252-4b11-a559-1cbe511e251c)
+Segurament se'ns obri un missatge de confirmació, li donem a "Ok, don't show again".
 
-Bla bla
+<img width="400" alt="ok dont show again" src="https://github.com/user-attachments/assets/1ef50349-e252-4b11-a559-1cbe511e251c">
+
+I ja estaria, si anem al repositori de GitHub hauríem de veure'n els canvis
 
 ### Com guardar els fitxers individuals localment
-Bla bla
+Sempre podem seleccionar qualsevol arxiu de codi que tinguem obert i guardar-lo en local anant a 'Fitxer', 'Desa com a', 
+
 ![desar-fitxer](https://github.com/user-attachments/assets/addeb77e-4521-4abc-9fb1-0cd7b3c366c4)
 
 Bla bla
