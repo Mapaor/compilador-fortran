@@ -302,7 +302,7 @@ Un cop escrit el missatge li donem al tick que té el fitxer a dalt a la dreta, 
 
 Segurament se'ns obri un missatge de confirmació, li donem a "Ok, don't show again".
 
-I ja estaria, si anem al repositori de GitHub hauríem de veure'n els canvis realitzats, i els fitxers que s'han modificat tindran al seu costat el missatge que hem escrit abans.
+I ja estaria, si anem al repositori de GitHub hauríem de veure els canvis actualitzats correctament, i els fitxers modificats haurien de tenir al seu costat el missatge que hem escrit abans.
 
 ### Com guardar els fitxers individuals localment
 Sempre podem seleccionar qualsevol arxiu de codi que tinguem obert i guardar-lo en local anant a les tres barres laterals, a 'Fitxer', 'Desa com a' i després clicant el botó blau de 'Mostra local'.
