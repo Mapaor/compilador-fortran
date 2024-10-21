@@ -318,9 +318,9 @@ I després cliquem 'Mostra local'.
 
 
 ### Com guardar carpetes senceres localment 
-Si volem guardar-nos tota la pràctica (o la carpeta amb tots els nostres programes, o qualsevol carpeta o directori que vulguem), simplement hem de trobar l'URL del directori en el repositori de GitHub (serà al estil `https://github.com/Nom-Usuari/nom-repositori/tree/main/Nom-Carpeta`) i després enganxar-la dins la següent web:
+Si volem guardar-nos tota la pràctica (o la carpeta amb tots els nostres programes, o qualsevol carpeta o directori que vulguem), simplement hem de trobar l'URL del directori en el repositori de GitHub (serà al estil `https://github.com/Nom-Usuari/nom-repositori/tree/main/Nom-Carpeta`) i després enganxar-la dins la següent web: [https://download-directory.github.io](https://download-directory.github.io).
 
-[https://download-directory.github.io](https://download-directory.github.io)
+<img width="350" src="https://github.com/user-attachments/assets/44a7fc22-0f6c-4094-bfd3-f89421d6790a">
 
 Un cop hi posem l'URL i premem <kbd>Enter</kbd>, automàticament es descarregarà la nostra carpeta comprimida en arxiu zip.
 
