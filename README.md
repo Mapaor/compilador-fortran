@@ -284,16 +284,16 @@ Nota: Si no suprimíssis mai el *codespace* en el que estàs treballant podries 
    Nota: vigila no et deixis la coma al final de la línia anterior per tal que el JSON tingui el format correcte.
 ## Guardar els canvis
 ### Com guardar els canvis a GitHub
-Un cop hagis afegit o suprimit arxius, o modificat codi. Segurament vulguis guardar els canvis (no en el *codespace*, que es fa automàticament) sinó en el teu repositori de GitHub. Per a fer-ho fes el següent:
-1. Bla bla
-   ![Screenshot 2024-10-20 at 17-07-45 prova f90 - jofre-compilador Codespaces orange journey - Visual Studio Code](https://github.com/user-attachments/assets/958c759a-25e3-4253-9509-4b0559b4ca9a)
+Un cop hagis afegit, suprimit, o modificat arxius. Segurament vulguis guardar-ne els canvis (no en el *codespace*, que es fa automàticament) sinó en el teu repositori de GitHub. Per a fer-ho fes el següent:
+1. Obre la pestanya de la barra lateral anomenada "Control d'Orígen"  (<kbd>Ctrl</kbd>+<kbd>Majús</kbd>+<kbd>G</kbd>). En aquesta hauries de veure, si és que has realitzat canvis, la possibilitat de confirmar-los.
+    <img width="500" src="https://github.com/user-attachments/assets/958c759a-25e3-4253-9509-4b0559b4ca9a">
 
-2. Bla bla
+Si et surt un missatge dona-li a "Sí" o "Sempre" si no vols que et torni a sortir.
   ![Screenshot 2024-10-20 at 17-08-42 COMMIT_EDITMSG - jofre-compilador Codespaces orange journey - Visual Studio Code](https://github.com/user-attachments/assets/51b0c1b3-af3e-48a7-be6b-70609a03636f)
 
    ![sempre](https://github.com/user-attachments/assets/42387e61-1bca-4546-bbaa-8cff0b180264)
 
-3. Bla bla
+4. Bla bla
   ![Screenshot 2024-10-20 at 17-09-01 prova f90 - jofre-compilador Codespaces orange journey - Visual Studio Code](https://github.com/user-attachments/assets/043367f6-8f34-4019-915e-415583d3b008)
 
 ![ok dont show again](https://github.com/user-attachments/assets/1ef50349-e252-4b11-a559-1cbe511e251c)
