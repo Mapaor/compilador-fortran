@@ -318,13 +318,11 @@ I després cliquem 'Mostra local'.
 
 
 ### Com guardar carpetes senceres localment 
-Guardar fitxers un a un no és gens pràctic, és per això que el millor és guardar-nos tota la pràctica, o tots els nostres programes, o la carpeta (directori) que vulguem. Per a fer-ho prèviament hem d'haver guardat els canvis en el repositori de GitHub, i després buscar la carpeta que volem descarregar, segurament tingui una URL al estil `https://github.com/Nom-Usuari/nom-repositori/tree/main/Nom-Carpeta`.
-
-Ara entrem en la següent web:
+Si volem guardar-nos tota la pràctica, o la carpeta amb tots els nostres programes, o qualsevol carpeta (directori) que vulguem, simplement hem de trobar la URL de la nostra carpeta al repositori de GitHub (que serà al estil `https://github.com/Nom-Usuari/nom-repositori/tree/main/Nom-Carpeta`) i després posar-la en la següent web:
 
 [https://download-directory.github.io](https://download-directory.github.io)
 
-Hi posem la URL de la nostra carpeta i premem <kbd>Enter</kbd>, automàticament es descarregarà la nostra carpeta comprimida en arxiu zip.
+Un cop hi posem la URL de la nostra carpeta i premem <kbd>Enter</kbd>, automàticament es descarregarà la nostra carpeta comprimida en arxiu zip.
 
 ## Altra informació rellevant
 ### Límits del pla gratuït.
