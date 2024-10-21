@@ -330,7 +330,7 @@ En el pla gratuït normal es disposen de 60h de computació al mes per fer anar 
 
 Podeu veure les hores de computació que us queden per utilitzar aquí: [https://github.com/settings/billing/summary](https://github.com/settings/billing/summary).
 ### Com aturar, reanudar, reconstruir i suprimir un *codespace*
-Per defecte un *codespace* s'atura als 30 minuts d'inactivitat. Si voleu també el podeu parar manualment perquè no vagi gastant (tot i que de nou, no cal), i quan l'obriu de nou sempre es tornarà a activar. 
+Per defecte un *codespace* s'atura als 30 minuts d'inactivitat. Si voleu també el podeu parar manualment perquè no vagi gastant (tot i que de nou, no cal), i per reanudar-lo només l'heu de tornar torneu a obrir.
 
 Quan suprimiu un *codespace*, aquest perd la informació dels canvis que no havíeu sincronitzat encara a GitHub, i quan el torneu a crear s'hauran de tornar a instal·lar extensions i compiladors. Els *codespaces* de per si mai caduquen, són indefinits, tot i així els de GitHub t'envien un correu quan han passat dos mesos d'inactivitat, dien-te que per conservar-lo hi tornis a entrar.
 
