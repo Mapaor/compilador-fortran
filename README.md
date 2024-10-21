@@ -305,20 +305,26 @@ Segurament se'ns obri un missatge de confirmació, li donem a "Ok, don't show ag
 I ja estaria, si anem al repositori de GitHub hauríem de veure'n els canvis realitzats, i els fitxers que s'han modificat tindran al seu costat el missatge que hem escrit abans.
 
 ### Com guardar els fitxers individuals localment
-Sempre podem seleccionar qualsevol arxiu de codi que tinguem obert i guardar-lo en local anant a les tres barres laterals, a 'Fitxer', 'Desa com a' i després clicant el botó blau de 'Mostra en local'.
+Sempre podem seleccionar qualsevol arxiu de codi que tinguem obert i guardar-lo en local anant a les tres barres laterals, a 'Fitxer', 'Desa com a' i després clicant el botó blau de 'Mostra local'.
 
 <details><summary>Imatge d'exemple</summary>
 <img width="700" src="https://github.com/user-attachments/assets/addeb77e-4521-4abc-9fb1-0cd7b3c366c4">
 
-I després cliquem 'Mostra en local'.
+I després cliquem 'Mostra local'.
+
 <img width="400" src="https://github.com/user-attachments/assets/cb497472-0455-4df8-af16-b803be0bc95c">
 
 </details>
 
 
 ### Com guardar carpetes senceres localment 
-Bla bla un cop fet el commit
+Guardar fitxers un a un no és gens pràctic, és per això que el millor és guardar-nos tota la pràctica, o tots els nostres programes, o la carpeta (directori) que vulguem. Per a fer-ho prèviament hem d'haver guardat els canvis en el repositori de GitHub, i després buscar la carpeta que volem descarregar, segurament tingui una URL al estil `https://github.com/Nom-Usuari/nom-repositori/tree/main/Nom-Carpeta`.
+
+Ara entrem en la següent web:
+
 [https://download-directory.github.io](https://download-directory.github.io)
+
+Hi posem la URL de la nostra carpeta i premem <kbd>Enter</kbd>, automàticament es descarregarà la nostra carpeta comprimida en arxiu zip.
 
 ## Altra informació rellevant
 ### Límits del pla gratuït.
