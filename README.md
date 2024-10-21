@@ -284,13 +284,13 @@ Nota: Si no suprimíssis mai el *codespace* en el que estàs treballant podries 
    Nota: vigila no et deixis la coma al final de la línia anterior per tal que el JSON tingui el format correcte.
 ## Guardar els canvis
 ### Com guardar els canvis a GitHub
-Un cop hagis afegit, suprimit, o modificat arxius, segurament vulguis guardar els canvis (no en el *codespace*, que es fa automàticament sinó) en el teu repositori de GitHub. Per a fer-ho hem d'anar a la pestanya lateral anomenada "Control d'Orígen"  (<kbd>Ctrl</kbd>+<kbd>Majús</kbd>+<kbd>G</kbd>) i prémer el botó blau de 'Confirmació' de canvis.
+Un cop hagis afegit, suprimit, o modificat arxius, segurament vulguis guardar els canvis (no en el *codespace*, que es fa automàticament sinó) en el teu repositori de GitHub. Per a fer-ho has d'anar a la pestanya lateral anomenada "Control d'Orígen"  (<kbd>Ctrl</kbd>+<kbd>Majús</kbd>+<kbd>G</kbd>) i prémer el botó blau de 'Confirmació' de canvis.
 
 <img width="300" src="https://github.com/user-attachments/assets/958c759a-25e3-4253-9509-4b0559b4ca9a">
 
-Aquest botó el que fa és posar en escena (*stage*) els canvis. S'obrirà una finestreta preguntant-nos si volem posar en escena tots els canvis directament, li donem a 'Sí' o 'Sempre'
+Aquest botó el que fa és posar en escena (*stage*) els canvis. Automàticament s'obrirà una finestreta de confirmació en què ens preguntanten si volem posar en escena tots els canvis directament, li donem a 'Sí' o 'Sempre'.
 
-<img width="150" src="https://github.com/user-attachments/assets/5107e5da-7d5c-4007-9d3c-f65f3ddd647f">
+<img width="300" src="https://github.com/user-attachments/assets/5107e5da-7d5c-4007-9d3c-f65f3ddd647f">
 
 Analogia: Imaginem que estem fent una mudança, cada objecte del pis seria un canvi, quan posem els objectes en caixes que ens volem endur els estem posant en escena (*stage*). Per exemple potser tenim dos fitxers modificats, però sols que s'actualitzi (en el repositori) el codi d'un, o potser tenim dues caixes de la mudança, però només ens en volem endur una.
 
