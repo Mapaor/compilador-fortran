@@ -298,7 +298,7 @@ Si no volguéssim posar en escena tots els canvis, seleccionaríem només els qu
 
 <img width="550" alt="missatge commit" src="https://github.com/user-attachments/assets/34d79ddc-a6f8-4f3a-b12b-c7460593b01e">
 
-Un cop escrit el missatge li donem al tick que té el fitxer a dalt a la dreta, i se'ns guardarà. A la barra lateral ens apereixerà un botó per "Sincronitzar" (fer *commit*) els canvis seleccionats.
+Un cop escrit el missatge li donem al tick que té el fitxer a dalt a la dreta, i se'ns guardarà. A la barra lateral ens apereixerà un botó per "Sincronitzar canvis" (fer *commit* als canvis seleccionats).
 
 <img width="350" src="https://github.com/user-attachments/assets/043367f6-8f34-4019-915e-415583d3b008">
 
@@ -306,7 +306,7 @@ Segurament se'ns obri un missatge de confirmació, li donem a "Ok, don't show ag
 
 <img width="400" alt="ok dont show again" src="https://github.com/user-attachments/assets/1ef50349-e252-4b11-a559-1cbe511e251c">
 
-I ja estaria, si anem al repositori de GitHub hauríem de veure'n els canvis
+I ja estaria, si anem al repositori de GitHub hauríem de veure'n els canvis realitzats, i els fitxers que s'han modificat tindran al seu costat el missatge que hem escrit abans.
 
 ### Com guardar els fitxers individuals localment
 Sempre podem seleccionar qualsevol arxiu de codi que tinguem obert i guardar-lo en local anant a 'Fitxer', 'Desa com a', 
