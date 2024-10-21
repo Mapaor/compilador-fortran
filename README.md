@@ -292,7 +292,7 @@ Aquest botó el que fa és posar en escena (*stage*) els canvis. Automàticament
 
 Analogia: Imaginem que estem fent una mudança, cada objecte del pis seria un canvi, quan posem els objectes en caixes que ens volem endur els estem posant en escena (*stage*). Per exemple potser tenim dos fitxers modificats, però sols volem que s'actualitzi el codi (en el repositori) d'un dels dos, o potser tenim dues caixes de la mudança, però només ens en volem endur una.
 
-Si no volguéssim posar en escena tots els canvis, seleccionaríem només els que volguéssim i després li donaríem a confirmar. Un cop apretat el botó blau de "Confirmació" se'ns obrirà un fitxer git i hi haurem d'inserir un missatge a la línia superior sobre quins canvis hem realitzat (en l'analogia de la mudança seria com posar una etiqueta a la caixa, per exemple 'Objectes Lavabo'). El missatge no és important, és per nosaltres i prou, però és per procedir cal posar alguna cosa, la que sigui. 
+Si no volguéssim posar en escena tots els canvis, seleccionaríem només els que volguéssim i després li donaríem a confirmar. Un cop apretat el botó blau de "Confirmació" se'ns obrirà un fitxer git i hi haurem d'inserir un missatge a la línia superior sobre quins canvis hem realitzat (en l'analogia de la mudança seria com posar una etiqueta a la caixa, per exemple 'Objectes Lavabo'). El missatge no és important, és per nosaltres i prou, però per procedir és necessàri posar alguna cosa, sigui la que sigui. 
 
 <img width="650" alt="missatge commit" src="https://github.com/user-attachments/assets/34d79ddc-a6f8-4f3a-b12b-c7460593b01e">
 
