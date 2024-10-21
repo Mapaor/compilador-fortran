@@ -305,7 +305,7 @@ Segurament se'ns obri un missatge de confirmació, li donem a "Ok, don't show ag
 I ja estaria, si anem al repositori de GitHub hauríem de veure els canvis actualitzats correctament, i els fitxers modificats haurien de tenir al seu costat el missatge que hem escrit abans.
 
 ### Com guardar els fitxers individuals localment
-Sempre podem seleccionar qualsevol arxiu de codi que tinguem obert i guardar-lo en local anant a les tres barres laterals, a 'Fitxer', 'Desa com a' i després clicant el botó blau de 'Mostra local'.
+Sempre podem seleccionar qualsevol arxiu de codi que tinguem obert i guardar-lo en local anant a les tres barres laterals, a 'Fitxer', 'Desa com a' i després clicant el botó blau 'Mostra local'.
 
 <details><summary>Imatge d'exemple</summary>
 <img width="700" src="https://github.com/user-attachments/assets/addeb77e-4521-4abc-9fb1-0cd7b3c366c4">
