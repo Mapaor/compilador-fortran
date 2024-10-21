@@ -309,12 +309,15 @@ Segurament se'ns obri un missatge de confirmació, li donem a "Ok, don't show ag
 I ja estaria, si anem al repositori de GitHub hauríem de veure'n els canvis realitzats, i els fitxers que s'han modificat tindran al seu costat el missatge que hem escrit abans.
 
 ### Com guardar els fitxers individuals localment
-Sempre podem seleccionar qualsevol arxiu de codi que tinguem obert i guardar-lo en local anant a 'Fitxer', 'Desa com a', 
+Sempre podem seleccionar qualsevol arxiu de codi que tinguem obert i guardar-lo en local anant a les tres barres laterals, a 'Fitxer', 'Desa com a' i després clicant el botó blau de 'Mostra en local'.
 
-![desar-fitxer](https://github.com/user-attachments/assets/addeb77e-4521-4abc-9fb1-0cd7b3c366c4)
+<details><summary>Imatge d'exemple</summary>
+<img width="700" src="https://github.com/user-attachments/assets/addeb77e-4521-4abc-9fb1-0cd7b3c366c4">
 
-Bla bla
-![mostra-local](https://github.com/user-attachments/assets/cb497472-0455-4df8-af16-b803be0bc95c)
+I després cliquem 'Mostra en local'.
+<img width="400" src="https://github.com/user-attachments/assets/cb497472-0455-4df8-af16-b803be0bc95c">
+
+</details>
 
 
 ### Com guardar carpetes senceres localment 
