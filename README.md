@@ -332,11 +332,11 @@ Podeu veure les hores de computació que us queden per utilitzar aquí: [https:/
 ### Com aturar, reanudar, reconstruir i suprimir un *codespace*
 Per defecte un *codespace* s'atura als 30 minuts d'inactivitat. Si voleu també el podeu parar manualment perquè no vagi gastant (tot i que de nou, no cal), i per reanudar-lo només l'heu de tornar a obrir.
 
-Quan suprimiu un *codespace*, aquest perd la informació dels canvis que no havíeu sincronitzat encara a GitHub, i quan el torneu a crear s'hauran de tornar a instal·lar extensions i compiladors. Els *codespaces* de per si mai caduquen, són indefinits, tot i així els de GitHub t'envien un correu quan han passat dos mesos d'inactivitat, dien-te que per conservar-lo hi tornis a entrar.
+Quan suprimiu un *codespace*, aquest perd la informació dels canvis que no havíeu sincronitzat encara a GitHub. Quan el torneu a crear, haureu d'esperar que es tornin a instal·lar les extensions, i caldrà tornar a instal·lar fortran i gnuplot de nou. Així doncs, els *codespaces* és millor no suprimir-los si no és necessàri. A priori no caduquen, poden durar indefinidament en el temps, ara bé els així els de GitHub t'envien un correu quan han passat dos mesos d'inactivitat, dien-te que per conservar-lo hi tornis a entrar.
 
 Podeu tenir *codespaces* en repositoris que no són vostres, i fins i tot podeu tenir diversos *codespaces* en un mateix repositori.
 
-Podeu trobar més informació sobre el tema aquí: [GitHub Docs - Understanding the codespace lifecycle](https://docs.github.com/en/codespaces/getting-started/understanding-the-codespace-lifecycle).
+Aquí més informació sobre el tema: [GitHub Docs - Understanding the codespace lifecycle](https://docs.github.com/en/codespaces/getting-started/understanding-the-codespace-lifecycle).
 
 ### Com funciona a nivell tècnic aquest repositori
 #### Què hi ha en la carpeta .devcontainer?
