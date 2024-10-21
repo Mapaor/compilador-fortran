@@ -326,7 +326,7 @@ Un cop hi posem l'URL i premem <kbd>Enter</kbd>, automàticament es descarregar�
 
 ## Altra informació rellevant
 ### Límits del pla gratuït.
-En el pla gratuït normal es disposen de 60h de computació al mes per fer anar els teus *codespaces*. Pel pla de GitHub per estudiants es disposen de 180h. El més probable és que en cap dels dos casos exhauriu les hores de computació, i hauríeu d'estar moltes hores.
+En el pla gratuït normal es disposen de 60h de computació al mes per fer anar els teus *codespaces*. Pel pla de GitHub per estudiants es disposen de 180h. El més probable és que en cap dels dos casos exhauriu les hores de computació (hi hauríeu d'estar realment moltes hores).
 
 Podeu veure les hores de computació que porteu utilitzades aquest mes aquí: [https://github.com/settings/billing/summary](https://github.com/settings/billing/summary).
 ### Com aturar, reanudar, reconstruir i suprimir un *codespace*
