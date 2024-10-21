@@ -7,7 +7,7 @@ Bàsicament tenir una **versió idèntica del Visual Studio Code** per la web qu
 
 <img src="https://github.com/user-attachments/assets/299c0a48-e8c5-4ca1-b547-4307ac310a0b" alt="Demo" width="800">
 
-Aquest mètode també pot servir a mode de *back-up* per si un dia no us funcionés l'ordinador o tinguéssiu un problema tècnic. D'aquesta manera simplement accedint al vostre repositori de GitHub accediríeu amb un sol click als vostres programes i subrutines. Amb el *plus* de poder-les editar, executar i també guardar (tan al repositori de GitHub com de manera local).
+Aquest mètode també pot servir a mode de *back-up* per si un dia no us funcionés l'ordinador o tinguéssiu un probema tècnic. D'aquesta manera simplement accedint al vostre repositori de GitHub accediríeu amb un sol click als vostres programes i subrutines. Amb el *plus* de poder-les editar, executar i també guardar (tan al repositori de GitHub com de manera local).
 
 ### Vídeo tutorial
 Per si de cas us perdeu seguint aquesta guia, aquí teniu un petit vídeo amb els diferents passos seguir.
@@ -288,23 +288,19 @@ Un cop hagis afegit, suprimit, o modificat arxius, segurament vulguis guardar el
 
 <img width="300" src="https://github.com/user-attachments/assets/958c759a-25e3-4253-9509-4b0559b4ca9a">
 
-Aquest botó el que fa és posar en escena (*stage*) els canvis. Automàticament s'obrirà una finestreta de confirmació en què ens pregunten si volem posar en escena directament tots els canvis (enlloc de sols alguns), li donem a 'Sí' o, perquè no ens torni a sortir, a 'Sempre'.
-
-<img width="390" src="https://github.com/user-attachments/assets/5107e5da-7d5c-4007-9d3c-f65f3ddd647f">
+Aquest botó el que fa és posar en escena (*stage*) els canvis. Automàticament s'obrirà una finestreta de confirmació en què ens pregunten si volem posar en escena directament tots els canvis (enlloc de sols alguns), li donem a 'Sí' o a 'Sempre' (per tal que no ens torni a sortir).
 
 Analogia: Imaginem que estem fent una mudança, cada objecte del pis seria un canvi, quan posem els objectes en caixes que ens volem endur els estem posant en escena (*stage*). Per exemple potser tenim dos fitxers modificats, però sols volem que s'actualitzi el codi (en el repositori) d'un dels dos, o potser tenim dues caixes de la mudança, però només ens en volem endur una.
 
 Si no volguéssim posar en escena tots els canvis, seleccionaríem només els que volguéssim i després li donaríem a confirmar. Un cop apretat el botó blau de "Confirmació" se'ns obrirà un fitxer git i hi haurem d'inserir un missatge a la línia superior sobre quins canvis hem realitzat (en l'analogia de la mudança seria com posar una etiqueta a la caixa, per exemple 'Objectes Lavabo'). El missatge no és important, és per nosaltres i prou, però és per procedir cal posar alguna cosa, la que sigui. 
 
-<img width="550" alt="missatge commit" src="https://github.com/user-attachments/assets/34d79ddc-a6f8-4f3a-b12b-c7460593b01e">
+<img width="650" alt="missatge commit" src="https://github.com/user-attachments/assets/34d79ddc-a6f8-4f3a-b12b-c7460593b01e">
 
 Un cop escrit el missatge li donem al tick que té el fitxer a dalt a la dreta, i se'ns guardarà. A la barra lateral ens apereixerà un botó per "Sincronitzar canvis" (fer *commit* als canvis seleccionats).
 
 <img width="350" src="https://github.com/user-attachments/assets/043367f6-8f34-4019-915e-415583d3b008">
 
 Segurament se'ns obri un missatge de confirmació, li donem a "Ok, don't show again".
-
-<img width="400" alt="ok dont show again" src="https://github.com/user-attachments/assets/1ef50349-e252-4b11-a559-1cbe511e251c">
 
 I ja estaria, si anem al repositori de GitHub hauríem de veure'n els canvis realitzats, i els fitxers que s'han modificat tindran al seu costat el missatge que hem escrit abans.
 
