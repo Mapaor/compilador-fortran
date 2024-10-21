@@ -284,16 +284,21 @@ Nota: Si no suprimíssis mai el *codespace* en el que estàs treballant podries 
    Nota: vigila no et deixis la coma al final de la línia anterior per tal que el JSON tingui el format correcte.
 ## Guardar els canvis
 ### Com guardar els canvis a GitHub
-Un cop hagis afegit, suprimit, o modificat arxius, segurament vulguis guardar els canvis (no en el *codespace*, que es fa automàticament sinó) en el teu repositori de GitHub. Per a fer-ho hem d'anar a la pestanya lateral anomenada "Control d'Orígen"  (<kbd>Ctrl</kbd>+<kbd>Majús</kbd>+<kbd>G</kbd>). En aquesta hauries de veure un botó blau que et permet confirmar els canvis, si és que n'has fet algun.
+Un cop hagis afegit, suprimit, o modificat arxius, segurament vulguis guardar els canvis (no en el *codespace*, que es fa automàticament sinó) en el teu repositori de GitHub. Per a fer-ho hem d'anar a la pestanya lateral anomenada "Control d'Orígen"  (<kbd>Ctrl</kbd>+<kbd>Majús</kbd>+<kbd>G</kbd>) i prémer el botó blau de 'Confirmació' de canvis.
 
 <img width="300" src="https://github.com/user-attachments/assets/958c759a-25e3-4253-9509-4b0559b4ca9a">
 
-A continuació et sortirà un missatge dona-li a "Sí" o "Sempre" si no vols que et torni a sortir.
-  ![Screenshot 2024-10-20 at 17-08-42 COMMIT_EDITMSG - jofre-compilador Codespaces orange journey - Visual Studio Code](https://github.com/user-attachments/assets/51b0c1b3-af3e-48a7-be6b-70609a03636f)
+Aquest botó el que fa és posar en escena (*stage*) els canvis. S'obrirà una finestreta preguntant-nos si volem posar en escena tots els canvis directament, li donem a 'Sí' o 'Sempre'
 
-   ![sempre](https://github.com/user-attachments/assets/42387e61-1bca-4546-bbaa-8cff0b180264)
+<img width="150" src="https://github.com/user-attachments/assets/5107e5da-7d5c-4007-9d3c-f65f3ddd647f">
 
-4. Bla bla
+Analogia: Imaginem que estem fent una mudança, cada objecte del pis seria un canvi, quan posem els objectes en caixes que ens volem endur els estem posant en escena (*stage*). Per exemple potser tenim dos fitxers modificats, però sols que s'actualitzi (en el repositori) el codi d'un, o potser tenim dues caixes de la mudança, però només ens en volem endur una.
+
+Si no volguéssim posar en escena tots els canvis, seleccionem només els que vulguem. Molt bé, un cop hem apretat el botó blau de "Confirmació" se'ns obre un fitxer git en què hi hem d'inserir un missatge sobre quins canvis hem realitzat (en l'analogia de la mudança seria com posar una etiqueta a la caixa, per exemple 'Objectes Lavabo'). El missatge no és important, és per nosaltres mateixos saber què hem anat canviant, però és imprescindible posar alguna cosa, la que sigui.
+
+<img width="300" src="[https://github.com/user-attachments/assets/958c759a-25e3-4253-9509-4b0559b4ca9a](https://github.com/user-attachments/assets/51b0c1b3-af3e-48a7-be6b-70609a03636f)">
+
+Bla bla
   ![Screenshot 2024-10-20 at 17-09-01 prova f90 - jofre-compilador Codespaces orange journey - Visual Studio Code](https://github.com/user-attachments/assets/043367f6-8f34-4019-915e-415583d3b008)
 
 ![ok dont show again](https://github.com/user-attachments/assets/1ef50349-e252-4b11-a559-1cbe511e251c)
