@@ -292,11 +292,11 @@ Aquest botó el que fa és posar en escena (*stage*) els canvis. Automàticament
 
 <img width="390" src="https://github.com/user-attachments/assets/5107e5da-7d5c-4007-9d3c-f65f3ddd647f">
 
-Analogia: Imaginem que estem fent una mudança, cada objecte del pis seria un canvi, quan posem els objectes en caixes que ens volem endur els estem posant en escena (*stage*). Per exemple potser tenim dos fitxers modificats, però sols que s'actualitzi (en el repositori) el codi d'un, o potser tenim dues caixes de la mudança, però només ens en volem endur una.
+Analogia: Imaginem que estem fent una mudança, cada objecte del pis seria un canvi, quan posem els objectes en caixes que ens volem endur els estem posant en escena (*stage*). Per exemple potser tenim dos fitxers modificats, però sols volem que s'actualitzi el codi (en el repositori) d'un dels dos, o potser tenim dues caixes de la mudança, però només ens en volem endur una.
 
-Si no volguéssim posar en escena tots els canvis, seleccionem només els que vulguem. Molt bé, un cop hem apretat el botó blau de "Confirmació" se'ns obre un fitxer git en què hi hem d'inserir un missatge sobre quins canvis hem realitzat (en l'analogia de la mudança seria com posar una etiqueta a la caixa, per exemple 'Objectes Lavabo'). El missatge no és important, és per nosaltres mateixos saber què hem anat canviant, però és imprescindible posar alguna cosa, la que sigui.
+Si no volguéssim posar en escena tots els canvis, seleccionariem només els que volguéssim i després li donaríem a confirmar. Un cop apretat el botó blau de "Confirmació" se'ns obre un fitxer git en què hi hem d'inserir un missatge intern (per nosaltres) sobre quins canvis hem realitzat (en l'analogia de la mudança seria com posar una etiqueta a la caixa, per exemple 'Objectes Lavabo'). El missatge no és important, és per nosaltres i prou, però és per procedir cal posar alguna cosa, la que sigui.
 
-<img width="300" src="https://github.com/user-attachments/assets/51b0c1b3-af3e-48a7-be6b-70609a03636f">
+<img width="320" src="https://github.com/user-attachments/assets/51b0c1b3-af3e-48a7-be6b-70609a03636f">
 
 Bla bla
   ![Screenshot 2024-10-20 at 17-09-01 prova f90 - jofre-compilador Codespaces orange journey - Visual Studio Code](https://github.com/user-attachments/assets/043367f6-8f34-4019-915e-415583d3b008)
