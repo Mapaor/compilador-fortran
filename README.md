@@ -328,7 +328,7 @@ Un cop hi posem l'URL i premem <kbd>Enter</kbd>, automàticament es descarregar�
 ### Límits del pla gratuït.
 En el pla gratuït normal es disposen de 60h de computació al mes per fer anar els teus *codespaces*. Pel pla de GitHub per estudiants es disposen de 180h. El més probable és que en cap dels dos casos exhauriu les hores de computació (hi hauríeu d'estar realment moltes hores).
 
-Podeu veure les hores de computació que porteu utilitzades aquest mes aquí: [https://github.com/settings/billing/summary](https://github.com/settings/billing/summary).
+Podeu veure les hores de computació que us queden per utilitzar aquí: [https://github.com/settings/billing/summary](https://github.com/settings/billing/summary).
 ### Com aturar, reanudar, reconstruir i suprimir un *codespace*
 Per defecte un *codespace* s'atura als 30 minuts d'inactivitat. Si voleu també el podeu parar manualment perquè no vagi gastant (tot i que de nou, no cal), i quan l'obriu de nou sempre es tornarà a activar. 
 
