@@ -322,7 +322,7 @@ Si volem guardar-nos tota la pràctica (o la carpeta amb tots els nostres progra
 
 [https://download-directory.github.io](https://download-directory.github.io)
 
-Un cop hi posem la URL i premem <kbd>Enter</kbd>, automàticament es descarregarà la nostra carpeta comprimida en arxiu zip.
+Un cop hi posem l'URL i premem <kbd>Enter</kbd>, automàticament es descarregarà la nostra carpeta comprimida en arxiu zip.
 
 ## Altra informació rellevant
 ### Límits del pla gratuït.
